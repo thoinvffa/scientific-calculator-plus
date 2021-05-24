@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/tphggvnserctazeuuuttadmjnjuwic" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@id/gxnptwsgfqjxicdctjpqiejdlkrcfx" android:layout_width="fill_parent" android:layout_height="?actionBarSize" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.drawerlayout.widget.DrawerLayout android:id="@id/rtnyxufkbijvrsqxdqwmpjzbcvnijf" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <FrameLayout android:orientation="vertical" android:id="@id/tumugnefmcbacsqogjrfswyzwiyvsq" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </LinearLayout>
+        <com.google.android.material.navigation.NavigationView android:layout_gravity="start" android:fitsSystemWindows="false" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ExpandableListView android:id="@id/szrwwvyjengybmfopuhacllowgwtjq" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:groupIndicator="@null" />
+        </com.google.android.material.navigation.NavigationView>
+    </androidx.drawerlayout.widget.DrawerLayout>
+</LinearLayout>

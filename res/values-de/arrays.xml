@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_anglemeasure_entries">
+        <item>Grad</item>
+        <item>Radiant</item>
+        <item>aus</item>
+    </string-array>
+    <string-array name="pref_anglemeasure_evs">
+        <item>degree</item>
+        <item>radian</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_leftruler_entries">
+        <item>cm</item>
+        <item>zoll</item>
+        <item>aus</item>
+    </string-array>
+    <string-array name="pref_leftruler_evs">
+        <item>cm</item>
+        <item>inch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_rightruler_entries">
+        <item>cm</item>
+        <item>zoll</item>
+        <item>aus</item>
+    </string-array>
+    <string-array name="pref_rightruler_evs">
+        <item>cm</item>
+        <item>inch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="sorting_orders">
+        <item>Standard</item>
+        <item>Alphabetisch</item>
+    </string-array>
+</resources>

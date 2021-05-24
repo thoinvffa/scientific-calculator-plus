@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.math.calculator.plus.view.calcbutton.class_ATycDUCKWWPaSSqUVLCCEgLShTOLNL android:orientation="vertical" android:id="@id/booqtlirjaoasxreipqabhnvxqcxri" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" style="?mainButtonStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:baselineAligned="false" android:layout_weight="@fraction/secondary_shift_alpha_weight">
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:id="@id/npwvxljheapyihb_yxcxjkdofqvlfy" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/keyboard_function_cube" android:layout_weight="1.0" style="?shiftedButtonStyle" />
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:id="@id/cgxauzdjhsbmmgsuuqoheelgupbe_n" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/keyboard_base_decimal" android:layout_weight="1.0" style="?alphedButtonStyle" />
+    </LinearLayout>
+    <com.math.calculator.plus.view.calcbutton.class_iCdGnpuWdKcquUwNPU_lDoDIjovREo android:id="@id/refrrbuwioobss_tk_h_qehbnpboeu" android:background="@null" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/keyboard_power_two" android:layout_weight="@fraction/secondary_button_weight" style="?mainButtonStyle" />
+</com.math.calculator.plus.view.calcbutton.class_ATycDUCKWWPaSSqUVLCCEgLShTOLNL>

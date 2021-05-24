@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/gnwovuukj_anzwbjuzrbfqs_kckckjfslncqzshxhqfwikuilnxs_" android:id="@id/twdpoqtsgchprbbseotnxaywsncudk" android:title="@string/abc_search_hint" app:actionViewClass="androidx.appcompat.widget.SearchView" app:showAsAction="collapseActionView|ifRoom" />
+    <item android:icon="@drawable/boeksrfdmvh_qk__gbbsqpcvvpdxttvhhdeqzcdoougg_fnx__icu" android:id="@id/v_reamfwaibxls_jwgkdm_hrrgpgqx" android:title="@string/download_all_formulas" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_close_24" android:id="@id/bahbtduclgkdewfcbekmquebfzwtdn" android:title="@string/exit_" app:showAsAction="ifRoom" />
+</menu>

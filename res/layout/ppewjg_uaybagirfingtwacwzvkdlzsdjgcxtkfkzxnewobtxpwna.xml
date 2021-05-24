@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="?mainBackground" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/qkqqjucgpbssa_btoiwbygbwkxaakk" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?calculatorActionBarStyle">
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:layout_gravity="end" android:id="@id/hostr_bbzd_susacgvzpbnixrwpvix" android:padding="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?actionBarTextStyle" />
+    </FrameLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <HorizontalScrollView android:background="?screenBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?screenForeground" android:fillViewport="true">
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <com.math.calculator.plus.view.display.class_AgqbbCPLTWjXajbqAgHcsQrDroPNjc android:textSize="16.0sp" android:layout_gravity="right" android:id="@id/mgvqetwo_lwwxnlfnqplqtdvelgcql" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?displayTextStyle" />
+            </FrameLayout>
+        </HorizontalScrollView>
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_anglemeasure_entries">
+        <item>градус</item>
+        <item>радиан</item>
+        <item>ничего</item>
+    </string-array>
+    <string-array name="pref_anglemeasure_evs">
+        <item>degree</item>
+        <item>radian</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_leftruler_entries">
+        <item>см</item>
+        <item>дюйм</item>
+        <item>ничего</item>
+    </string-array>
+    <string-array name="pref_leftruler_evs">
+        <item>cm</item>
+        <item>inch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_rightruler_entries">
+        <item>см</item>
+        <item>дюйм</item>
+        <item>ничего</item>
+    </string-array>
+    <string-array name="pref_rightruler_evs">
+        <item>cm</item>
+        <item>inch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="sorting_orders">
+        <item>По умолчанию</item>
+        <item>В алфавитном порядке</item>
+    </string-array>
+</resources>

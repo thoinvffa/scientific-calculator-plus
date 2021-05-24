@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL android:id="@id/quhbsvndhss_bsfjhthszdisqofzfx" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/ScrollViewStyle">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="10.0">
+            <com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD android:id="@id/ppgwcuadczmacklpebfcisyogduoy_" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="7.0" style="@style/ScrollViewStyle">
+                <com.math.calculator.plus.view.display.class_AcRLqnCNBRIggysGuQSyWIEmWsZgAY android:id="@id/bvsvblthcnxujtudelihasxsdohmqp" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?displayTextStyle" />
+            </com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD>
+            <TextView android:layout_gravity="end" android:id="@id/dbcurtsm_ynu_ultrfbdbqnrxsscsx" android:background="?colorAccent" android:layout_width="100.0dip" android:layout_height="0.0dip" />
+            <com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD android:layout_gravity="end" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="3.0" style="@style/ScrollViewStyle">
+                <com.math.calculator.plus.view.display.class_AgqbbCPLTWjXajbqAgHcsQrDroPNjc android:layout_gravity="bottom" android:id="@id/mgvqetwo_lwwxnlfnqplqtdvelgcql" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?displayTextStyle" />
+            </com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD>
+        </LinearLayout>
+    </com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL>
+</LinearLayout>

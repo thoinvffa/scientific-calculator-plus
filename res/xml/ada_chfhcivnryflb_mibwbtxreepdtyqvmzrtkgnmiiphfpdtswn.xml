@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <CheckBoxPreference android:icon="@drawable/ic_close_24" android:title="@string/clear_screen" android:key="@string/key_decimal_clear_screen" android:summary="@string/clear_screen_sum" android:defaultValue="false" />
+    <CheckBoxPreference android:title="@string/blink_cursor" android:key="@string/key_blink_cursor" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/keep_screen_on" android:key="@string/key_screen_on" android:defaultValue="true" />
+    <SeekBarPreference android:icon="@drawable/ic_font_24" android:max="40" android:title="@string/change_font_size" android:key="@string/pref_key_display_text_size" android:defaultValue="16" app:min="10" />
+    <PreferenceCategory android:title="@string/system_ui">
+        <Preference android:icon="@drawable/ic_theme_24" android:title="@string/theme" android:key="@string/key_pref_change_theme" />
+        <Preference android:icon="@drawable/ic_font_24" android:title="@string/font" android:key="@string/key_pref_change_font" />
+        <CheckBoxPreference android:icon="@drawable/cgo_srbzxifaixw_l_dqfmeuzhkvzjhnlkibigpwuovgkvvwxfywd" android:title="@string/show_status_bar" android:key="@string/key_show_status_bar" android:defaultValue="false" />
+        <CheckBoxPreference android:icon="@drawable/sebgnz_bgpkfvdc_ndnzmbx_xbmkrrzokewtnhjimjfgoo_unmidu" android:title="@string/settings_show_navigation_bar" android:key="@string/pref_key_show_navigation_bar" android:defaultValue="false" />
+        <ListPreference android:icon="@drawable/aolmhrucueydyfnlzkmnodiu_nknkbdumiurn_ovyzkkiuuyrmmuz" android:entries="@array/screen_orientations" android:title="@string/pref_title_screen_orientation" android:key="@string/pref_key_screen_orientation" android:defaultValue="@string/screen_orientation_auto" android:entryValues="@array/screen_orientation_values" />
+        <ListPreference android:icon="@drawable/pcimizlr_avxubqgqd_ymqzgadihmjmllyajkqqbjhexnytzgxkup" android:entries="@array/supported_language" android:title="@string/language" android:key="@string/key_pref_language" android:defaultValue="@string/system_language" android:entryValues="@array/supported_language_code" />
+        <Preference android:icon="@drawable/nzbssnowvromuxuxpphjj_fctryvbdbck_pkwfmuukgbzjulokvif" android:title="@string/translate" android:key="@string/key_help_translate" android:summary="@string/help_translate" />
+    </PreferenceCategory>
+</PreferenceScreen>

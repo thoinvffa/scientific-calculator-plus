@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="4.0dip" app:cardCornerRadius="4.0dip" app:cardUseCompatPadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:background="?android:windowBackground" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:id="@id/ijmjqdcpjqnsvehdpmqvll_zhrdtmp" android:background="@drawable/ttzfafjgljdizl_xlnyodxchqzwuxlczuqkteyjpndfhzrim_bhze" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:textColor="#ffffffff" android:gravity="center" android:id="@id/xebumsnpxxmlxeaifopicpxxisqzkh" android:padding="8.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <com.math.calculator.plus.view.calcbutton.class_UEZcRbfL_LtHaLwcgxx_GlfGjKhVUN android:layout_gravity="center" android:id="@id/_puvg_rlfo__gzruiz_wbtw_qtkzbt" android:background="@drawable/nrqfwi_marmmwrdorlboms_bzwcukgpbjoazjbborxcwwtzhqmuxx" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginRight="4.0dip" android:textOn="" android:textOff="" android:layout_marginEnd="4.0dip" />
+        </LinearLayout>
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?rippleBackground">
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/vpkhtxvfcxgnwuzdjjffhrpkvuonul" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?rippleBackground" android:scaleType="fitCenter" android:adjustViewBounds="true" android:minHeight="100.0dip" />
+            <androidx.core.widget.ContentLoadingProgressBar android:layout_gravity="center" android:id="@id/okxgsfonubhrcusngobhplikqszfhf" android:layout_width="24.0dip" android:layout_height="24.0dip" style="@style/Widget.AppCompat.ProgressBar" />
+            <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" android:layout_gravity="center" android:id="@id/wczdnpcwxgzbylzldjxaycimoxamna" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/f__xcvz_tjefy_doypytaposxy_xua" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/djcilfmvmkrqhyxstsegrrybngsibj" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?rippleBackground" android:scaleType="fitCenter" android:adjustViewBounds="true" android:minHeight="100.0dip" />
+            <androidx.core.widget.ContentLoadingProgressBar android:layout_gravity="center" android:id="@id/fjrqsrofkoreuyxotjdfyl_qiuclcy" android:layout_width="24.0dip" android:layout_height="24.0dip" style="@style/Widget.AppCompat.ProgressBar" />
+            <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" android:layout_gravity="center" android:id="@id/nvbhruukdvzzonxjfdafpnxjnzlkbu" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

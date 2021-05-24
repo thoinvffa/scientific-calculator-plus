@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/vmnjivbjfniqpcqyesxxamrfjgdhyu" android:padding="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?rippleBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:id="@id/ggtkgbrflkknuerotpatgddnmwtdbs" android:padding="8.0dip" android:layout_width="48.0dip" android:layout_height="48.0dip" android:contentDescription="@string/icon_description" />
+    <RelativeLayout android:gravity="center_vertical" android:padding="4.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <androidx.appcompat.widget.AppCompatTextView android:textColor="?android:textColorPrimary" android:id="@id/pshpezhqcblymckalvcqrbptqivbfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <androidx.appcompat.widget.AppCompatTextView android:id="@id/dtm_wkgezwnuotiqzzke_nhurr_ldv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/pshpezhqcblymckalvcqrbptqivbfg" />
+        <androidx.appcompat.widget.AppCompatTextView android:id="@id/vccrnbyapnspczegxubyzxhmfilhwj" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <androidx.appcompat.widget.AppCompatTextView android:id="@id/fdsbhdlfmogpdusg__ufvsiag_azdy" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <androidx.appcompat.widget.AppCompatTextView android:id="@id/qlryfnyeei_xyavkqcpj_ehuklrbjn" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:textColor="?android:textColorSecondary" android:id="@id/oorxdknjmjofmlxemepowmgxtgqhei" android:background="?rippleBackground" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:contentDescription="@string/delete_icon_description" app:srcCompat="@drawable/vrgwobgestnhjngfslknmtlyazlbu_krsaueexdxnvyrzuqojevy_" />
+</LinearLayout>

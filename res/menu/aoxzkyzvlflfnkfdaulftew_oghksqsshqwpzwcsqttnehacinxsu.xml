@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_sync_24" android:id="@id/np_uyxlauxoqygmohcsibqtwcaks_b" android:visible="false" android:title="@string/action_refresh_currency_rates" app:showAsAction="collapseActionView|ifRoom" />
+    <item android:icon="@drawable/gnwovuukj_anzwbjuzrbfqs_kckckjfslncqzshxhqfwikuilnxs_" android:id="@id/twdpoqtsgchprbbseotnxaywsncudk" android:visible="true" android:title="@string/action_search" app:showAsAction="ifRoom" />
+    <item android:id="@id/gmozlefmitgxjiphg_nhnoiuxcvhtw" android:title="@string/action_settings" />
+    <item android:id="@id/hofkrbxscvhjyigegr_vveduxoegpe" android:title="@string/report_a_bug" />
+    <item android:icon="@drawable/nzbssnowvromuxuxpphjj_fctryvbdbck_pkwfmuukgbzjulokvif" android:id="@id/kajgbpb_ovbnwqboyymbgt__gpqyo_" android:title="@string/translate" />
+</menu>

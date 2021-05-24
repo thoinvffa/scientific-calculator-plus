@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <corners android:radius="6.0dip" />
+                    <solid android:color="#ff0f0c0d" />
+                    <padding android:left="1.75dip" android:top="1.75dip" android:right="1.75dip" android:bottom="1.75dip" />
+                </shape>
+            </item>
+            <item>
+                <shape android:shape="rectangle">
+                    <corners android:radius="5.0dip" />
+                    <solid android:color="#ff807d82" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <corners android:radius="6.0dip" />
+                    <solid android:color="#ff0f0c0d" />
+                    <padding android:left="1.75dip" android:top="1.75dip" android:right="1.75dip" android:bottom="1.75dip" />
+                </shape>
+            </item>
+            <item>
+                <shape>
+                    <corners android:topLeftRadius="5.0dip" android:topRightRadius="5.0dip" android:bottomLeftRadius="5.0dip" android:bottomRightRadius="5.0dip" />
+                    <gradient android:startColor="#fffdffff" android:endColor="#ff938c91" android:angle="270.0" />
+                    <padding android:left="1.0dip" android:top="1.0dip" android:right="1.0dip" android:bottom="1.0dip" />
+                </shape>
+            </item>
+            <item>
+                <shape android:shape="rectangle">
+                    <corners android:radius="5.0dip" />
+                    <gradient android:startColor="#ffd3ced5" android:endColor="#ffeff1f1" android:angle="270.0" android:centerColor="#ffd9dbdf" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

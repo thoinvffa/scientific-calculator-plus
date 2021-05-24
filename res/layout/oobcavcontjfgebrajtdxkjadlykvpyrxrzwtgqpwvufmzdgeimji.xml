@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:weightSum="4.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?shiftedButtonStyle" />
+</LinearLayout>

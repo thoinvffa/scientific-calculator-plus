@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/szt_hcrdwgrouckvcfce_dbotlfxmd" android:padding="8.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?selectableItemBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:id="@id/pugvzjabmpzvvaucdvtmknaurkhnzh" android:padding="8.0dip" android:layout_width="48.0dip" android:layout_height="48.0dip" android:scaleType="centerInside" android:contentDescription="@string/icon_description" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" android:textColor="?android:textColorPrimary" android:id="@id/xgehbtibyprotfpye_hwldljybwknr" android:padding="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatTextView android:textColor="?android:textColorSecondary" android:id="@id/xynvanvfccdjsqsoteua_ltem_ecww" android:padding="4.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatTextView android:textColor="?android:textColorSecondary" android:id="@id/okgmngywdeuoj_tzipfmliwwuyqe_v" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

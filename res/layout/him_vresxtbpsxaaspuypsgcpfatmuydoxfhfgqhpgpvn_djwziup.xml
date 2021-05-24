@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="?mainBackground" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/solve_equation" />
+    <FrameLayout android:background="?screenBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip">
+        <com.math.calculator.plus.view.display.class_AgqbbCPLTWjXajbqAgHcsQrDroPNjc android:textSize="20.0sp" android:layout_width="fill_parent" android:layout_height="wrap_content" app:canCopy="false" app:canPaste="false" app:expression="x^2+4x-3" style="?displayTextStyle" />
+    </FrameLayout>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="Press" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:baselineAligned="false">
+        <com.math.calculator.plus.view.calcbutton.class_iCdGnpuWdKcquUwNPU_lDoDIjovREo android:layout_width="60.0dip" android:layout_height="35.0dip" android:text="@string/keyboard_action_alpha" style="?alphaButtonStyle" />
+        <com.math.calculator.plus.view.calcbutton.class_iCdGnpuWdKcquUwNPU_lDoDIjovREo android:layout_width="60.0dip" android:layout_height="35.0dip" android:text="@string/keyboard_action_enter" style="?operatorButtonStyle" />
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/symbolic_roots" style="@style/TextAppearance.AppCompat.Medium" />
+    <FrameLayout android:background="?screenBackground" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.math.calculator.plus.view.display.class_AgqbbCPLTWjXajbqAgHcsQrDroPNjc android:textSize="20.0sp" android:layout_width="fill_parent" android:layout_height="wrap_content" app:canCopy="false" app:canPaste="false" app:expression="[x=-2-Sqrt(7),x=-2+Sqrt(7)]" style="?displayTextStyle" />
+    </FrameLayout>
+    <androidx.appcompat.widget.AppCompatCheckBox android:id="@id/fvs_mokyqpyrngblf_kbzhrwadnvgu" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/do_not_show_again" />
+    <androidx.appcompat.widget.AppCompatButton android:layout_gravity="end" android:id="@id/_kzg_dpivbbrswqtjphmdozaaunsgd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ok" style="@style/Widget.AppCompat.Button.Borderless.Colored" />
+</LinearLayout>

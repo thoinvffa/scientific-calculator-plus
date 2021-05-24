@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/gnwovuukj_anzwbjuzrbfqs_kckckjfslncqzshxhqfwikuilnxs_" android:id="@id/twdpoqtsgchprbbseotnxaywsncudk" android:title="@string/search" app:actionViewClass="androidx.appcompat.widget.SearchView" app:showAsAction="always" />
+    <item android:id="@id/ypqmjefqzronlkpbsvpdtiuwiqcono" android:title="@string/button_online_support" />
+    <item android:id="@id/hofkrbxscvhjyigegr_vveduxoegpe" android:title="@string/report_a_bug" />
+</menu>

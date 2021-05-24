@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:layout_width="@dimen/ti84_table_column_width" android:layout_height="wrap_content" android:singleLine="true" app:autoFit="false" style="?displayTextStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

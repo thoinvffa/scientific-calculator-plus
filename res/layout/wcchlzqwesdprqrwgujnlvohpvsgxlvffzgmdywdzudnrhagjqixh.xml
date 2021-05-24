@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewFlipper android:id="@id/hkbjoofywldnonkhzfsmuceashmoli" android:layout_width="fill_parent" android:layout_height="fill_parent" android:measureAllChildren="false">
+        <FrameLayout android:id="@id/udxmkikf_qedeyfoaxtaysgrlxdhtn" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL android:id="@id/quhbsvndhss_bsfjhthszdisqofzfx" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/TiDisplayScrollViewStyle">
+                <com.math.calculator.plus.view.class_cauvopyFzUwyhdLG_nyuTcooDmmZxN android:orientation="vertical" android:id="@id/jzpciuciciygwjdpfgkojelfcnrabl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0" />
+            </com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL>
+        </FrameLayout>
+        <FrameLayout android:id="@id/gzimylepngbndiooahmyliams_j_qh" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/wtnoa_kbl_rf_tsxbfuzryufwmqxocjimzelxxqaboeshtrxsfmqv" />
+        </FrameLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/vnpiuraati_ugz_oxfqtprcnzynjvo" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL android:id="@id/ibicvlphwrskmfmanxnluv_s_fyfyp" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toTopOf="@id/smpjsrqmmwbzqvczaivowpq_uhkfay" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/TiDisplayScrollViewStyle" />
+            <com.math.calculator.plus.view.class_KszpkkiVAlxmEDcOLVxHezEclRMjGc android:id="@id/smpjsrqmmwbzqvczaivowpq_uhkfay" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/ibicvlphwrskmfmanxnluv_s_fyfyp" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <FrameLayout android:orientation="vertical" android:id="@id/bcasslthtitiirxilhhfelhgiatkup" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <androidx.recyclerview.widget.RecyclerView android:orientation="vertical" android:id="@id/vbtcfgaaxejakonfkgztmopnlwl_qz" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+        <include layout="@layout/uoiu_vefympgx_tagsylfnamyzyngbpnedfnoguwocctfspasdfuw" />
+        <include layout="@layout/_gq_zitjyvb_vxaktpi_ac_faidjrp_zjkztopsjio_tuwxsqfqf_" />
+        <include layout="@layout/xuzpnhtpiwitzubedyphb_rbydfvhelrtbluwrz_bw_rsnhefkojl" />
+        <FrameLayout android:id="@id/e_pyxqfxekjilypjksfsffitxqqec_" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/cxamxnntekjaeslflphmsgzhvnuunn" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/jjlnv__cxucfdlyqbnrq_mkmmygfmp" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/nmscvdlft_hthslizipdn_keymuirlsxxnfrzyg_gghaibkbrabvo" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/wx_twfixocclowafnxvhonkprhnlxo" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/ScrollViewStyle" />
+        </FrameLayout>
+        <include layout="@layout/revsgeprgbzjowgzndojljibkpozoxbzyrufsqtvgsquyqndgcacj" />
+        <include layout="@layout/tzhvsy_yhxdfsa_aedchp_ddkazlmx_jxnnp_snechvuutwpcdbfq" />
+        <FrameLayout android:id="@id/kxjprsxpgnrteeadnkqzlqtptwipqq" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/nmscvdlft_hthslizipdn_keymuirlsxxnfrzyg_gghaibkbrabvo" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/bfxegqpepyukfabsaur_aswkctbyne" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/wtnoa_kbl_rf_tsxbfuzryufwmqxocjimzelxxqaboeshtrxsfmqv" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/qftbrjadssffsvpcujshspjki_zfcr" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/qiffbyub_gopwlwvetihzzkjxwvtkglwa_uzuo_iajmtnmwhxmf_h" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/yslsumyffuuaargmeubq__gzkekjcz" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/fojvxelet_fp_buynomyvbvnqbaukc_auskuqcvneqoorckjfzxbs" />
+        </FrameLayout>
+    </ViewFlipper>
+    <include layout="@layout/wchogtggevqnxbk_thndzrhkbwoayhifidfzlhyotarynjynkfuxs" />
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="12.0sp" android:textColor="@color/white" android:gravity="start" android:id="@id/htxcfgghak_wapwtw_dclrhpslluzs" android:background="@drawable/cb_bjqxyuvamtdbnqpaqbnkvmktuiqwmgssubkfdkf_pigfoifgvx" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:singleLine="false" app:autoFit="false" style="?displayTextStyle" />
+</FrameLayout>

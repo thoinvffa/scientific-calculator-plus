@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="3.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:textSize="16.0dip" android:ellipsize="middle" android:id="@id/jmecoawvwjmuwsokqdzelfkkfabvev" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" app:autoFit="false" style="?displayTextStyle" />
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <com.math.calculator.plus.view.display.class_TtNrsAGDoIBowMTSVHyQGLYaVTgndH android:textSize="16.0dip" android:id="@id/kdtissdb_t_zsmplnavctfmwvzbdru" android:layout_width="40.0dip" android:layout_height="wrap_content" style="?displayTextStyle" />
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/keyboard_operator_multiply" app:autoFit="false" style="?displayTextStyle" />
+        <com.math.calculator.plus.view.display.class_TtNrsAGDoIBowMTSVHyQGLYaVTgndH android:textSize="16.0dip" android:id="@id/stnhjaelurovnvgtzh_potrqbtovzc" android:layout_width="40.0dip" android:layout_height="wrap_content" style="?displayTextStyle" />
+    </LinearLayout>
+    <com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL android:layout_gravity="bottom" android:id="@id/iewumsze_i_zyqvlj_tauesrmy_jhw" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="2.0" style="@style/ScrollViewStyle">
+        <com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true">
+            <com.math.calculator.plus.view.matrix.class_u_v_MscdLZ_pTbcFhIPXUAnRaiEmcL android:id="@id/vopfisyajgazxaqdhlaclhfqfys_hm" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        </com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD>
+    </com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL>
+    <com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL android:id="@id/_mnknpjktreocmyvoxzdmxomvalspl" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0">
+        <com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD android:id="@id/prplenpgejwortehsqapzxpxlxsxep" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/ScrollViewStyle">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:id="@id/kbfzqaaypennvyhttvstoghgyvfffh" android:layout_width="wrap_content" android:layout_height="wrap_content" app:autoFit="false" style="?displayTextStyle" />
+                <com.math.calculator.plus.view.display.class_AcRLqnCNBRIggysGuQSyWIEmWsZgAY android:id="@id/jtz_vuihetcrmxfbbyfyttdvidh_iy" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?displayTextStyle" />
+            </LinearLayout>
+        </com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD>
+    </com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL>
+</LinearLayout>

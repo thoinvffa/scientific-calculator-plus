@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:id="@id/gpwwakdwejwskjzhefmgfvta_uqxub" android:layout_width="wrap_content" android:layout_height="wrap_content" app:autoFit="false" style="?displayTextStyle" />
+    <com.math.calculator.plus.view.display.class_TtNrsAGDoIBowMTSVHyQGLYaVTgndH android:id="@id/bvsvblthcnxujtudelihasxsdohmqp" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?displayTextStyle" />
+    <com.math.calculator.plus.view.class_KszpkkiVAlxmEDcOLVxHezEclRMjGc android:orientation="horizontal" android:id="@id/ktkgtoiciaexwhjxupkbveslcgdpmv" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:textSize="16.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="True" android:layout_weight="1.0" app:autoFit="false" />
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:textSize="16.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="False" android:layout_weight="1.0" app:autoFit="false" />
+    </com.math.calculator.plus.view.class_KszpkkiVAlxmEDcOLVxHezEclRMjGc>
+</LinearLayout>

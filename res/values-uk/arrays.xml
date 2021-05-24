@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sorting_orders">
+        <item>Типово</item>
+        <item>За абеткою</item>
+    </string-array>
+</resources>

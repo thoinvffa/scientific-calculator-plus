@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="x_text_replaced">
+        <item quantity="other">%d text replaced</item>
+        <item quantity="zero">0 found</item>
+    </plurals>
+</resources>

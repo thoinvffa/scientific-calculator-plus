@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@android:color/transparent" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minWidth="300.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/dialog_rate_background" android:padding="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="300.0dip">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="72.0dip" android:layout_marginBottom="8.0dip" app:srcCompat="@drawable/hblblwvripgptegvjabr_utwxxnlfsgrsjabaagdehlqttrcbohcx" />
+            <androidx.appcompat.widget.AppCompatImageButton android:layout_gravity="end|bottom|center" android:id="@id/qvwcac_jthitrpnemqwiibdmowngoz" android:background="?selectableItemBackground" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="#ffff0111" app:srcCompat="@drawable/round_cancel_black_24" />
+        </FrameLayout>
+        <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:textColor="#ff000000" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/rta_dialog_message_1" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="38.0dip">
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_margin="4.0dip" app:srcCompat="@drawable/huxvgcgdszrfgzdaifleniwvihsevhjeisoxqqobgczjmyleonvkj" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_margin="4.0dip" app:srcCompat="@drawable/huxvgcgdszrfgzdaifleniwvihsevhjeisoxqqobgczjmyleonvkj" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_margin="4.0dip" app:srcCompat="@drawable/huxvgcgdszrfgzdaifleniwvihsevhjeisoxqqobgczjmyleonvkj" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_margin="4.0dip" app:srcCompat="@drawable/huxvgcgdszrfgzdaifleniwvihsevhjeisoxqqobgczjmyleonvkj" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_margin="4.0dip" app:srcCompat="@drawable/huxvgcgdszrfgzdaifleniwvihsevhjeisoxqqobgczjmyleonvkj" />
+        </LinearLayout>
+        <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:textColor="#ff000000" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/rta_dialog_message_2" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:weightSum="2.0">
+            <androidx.appcompat.widget.AppCompatButton android:textColor="#ff000000" android:gravity="center" android:id="@id/dgjvzveyz_fyoecenavyhzkryveeia" android:background="@drawable/dialog_rate_feedback_button" android:layout_width="wrap_content" android:layout_height="40.0dip" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:foreground="?selectableItemBackground" android:text="@string/rta_dialog_suggestions" android:height="30.0dip" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatButton android:textColor="#ffffffff" android:gravity="center" android:id="@id/jniktirheex_eupvxwcde_dsznqaar" android:background="@drawable/dialog_rate_rate_button" android:layout_width="wrap_content" android:layout_height="40.0dip" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:foreground="?selectableItemBackground" android:text="@string/rta_dialog_give_5_stars" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

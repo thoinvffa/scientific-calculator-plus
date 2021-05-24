@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatCheckBox android:id="@id/vsygzkivchuztddhxxwxf_xarkmoli" android:layout_width="wrap_content" android:layout_height="40.0dip" android:checked="true" />
+    <com.math.calculator.plus.graph.class_anHqrcqcGLckTyiBEuxeNyppbwwvxl android:id="@id/zuzuzreufaatulinfzuslalqmjfqwx" android:padding="8.0dip" android:layout_width="40.0dip" android:layout_height="40.0dip" />
+    <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/TextAppearance.AppCompat.Small" android:typeface="monospace" android:textColor="?android:textColorPrimary" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="f(x,y)=" />
+    <androidx.appcompat.widget.AppCompatEditText android:textAppearance="@style/TextAppearance.AppCompat.Small" android:typeface="monospace" android:id="@id/vctq_vqjdmrcvcurmzoygqstdayvwd" android:layout_width="0.0dip" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+    <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:textColor="?android:textColorPrimary" android:id="@id/cqkogcivdnggeydyhpyebbevertz_x" android:background="?rippleBackground" android:padding="8.0dip" android:layout_width="48.0dip" android:layout_height="48.0dip" android:scaleType="centerInside" app:srcCompat="@drawable/vrgwobgestnhjngfslknmtlyazlbu_krsaueexdxnvyrzuqojevy_" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatTextView android:typeface="monospace" android:textColor="?android:textColorPrimary" android:id="@id/gpwwakdwejwskjzhefmgfvta_uqxub" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.google.android.material.tabs.TabLayout android:id="@id/ktkgtoiciaexwhjxupkbveslcgdpmv" android:layout_width="fill_parent" android:layout_height="40.0dip" app:tabGravity="fill" app:tabInlineLabel="true" app:tabMode="fixed">
+        <com.google.android.material.tabs.TabItem android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ONE" />
+        <com.google.android.material.tabs.TabItem android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="L1" />
+        <com.google.android.material.tabs.TabItem android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="L3" />
+        <com.google.android.material.tabs.TabItem android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="L4" />
+    </com.google.android.material.tabs.TabLayout>
+</LinearLayout>

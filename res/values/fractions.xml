@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="fraction" name="primary_button_weight">0.75</item>
+    <item type="fraction" name="primary_shift_alpha_weight">0.25</item>
+    <item type="fraction" name="secondary_button_weight">0.72</item>
+    <item type="fraction" name="secondary_shift_alpha_weight">0.28</item>
+    <item type="fraction" name="text_shadow_radius">5</item>
+    <item type="fraction" name="ti36_main_button_weight">0.72</item>
+    <item type="fraction" name="ti36_shift_alpha_weight">0.28</item>
+    <item type="fraction" name="ti84_main_button_weight">0.68</item>
+    <item type="fraction" name="ti84_shift_alpha_weight">0.32</item>
+</resources>

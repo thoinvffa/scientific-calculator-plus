@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="@string/decimal_number_format" android:key="@string/pref_key_select_decimal_format_mode" android:summary="@string/pref_desc_decimal_format" />
+    <ListPreference android:icon="@drawable/ic_angle" android:entries="@array/angle_mode_titles" android:title="@string/angle_mode" android:key="@string/pref_key_angle_unit" android:defaultValue="@string/value_angle_mode_degree" android:entryValues="@array/angle_mode_values" />
+    <Preference android:icon="@drawable/ic_help_24" android:title="Note about Radian Versus Degree Mode" android:key="ti84_angle_unit_note" />
+    <ListPreference android:icon="@drawable/ic_graph_24" android:entries="@array/arr_ti84_graph_modes" android:title="Graph Mode" android:key="@string/pref_key_ti84_graph_mode" android:defaultValue="@string/pref_value_graph_mode_func" android:entryValues="@array/arr_ti84_graph_modes" />
+    <ListPreference android:entries="@array/complex_output_type_titles" android:title="@string/pref_title_complex_number_mode" android:key="@string/key_def_output_complex" android:defaultValue="@string/value_complex_output_complex" android:entryValues="@array/complex_output_type_values" />
+    <ListPreference android:entries="@array/output_type_titles" android:title="@string/default_output" android:key="@string/key_fraction" android:defaultValue="@string/output_decimal_value" android:entryValues="@array/output_type_values" />
+    <SwitchPreference android:title="Stat diagnostics" android:key="pref_key_stat_diagnostics" android:summary="Stat diagnostics is always enable" android:defaultValue="true" />
+</PreferenceScreen>

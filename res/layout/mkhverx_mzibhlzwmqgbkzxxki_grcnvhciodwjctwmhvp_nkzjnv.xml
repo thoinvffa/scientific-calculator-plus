@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:background="?rippleBackground" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" app:cardCornerRadius="8.0dip" app:cardElevation="1.0dip" app:cardPreventCornerOverlap="true" app:cardUseCompatPadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/vpkhtxvfcxgnwuzdjjffhrpkvuonul" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/TextAppearance.AppCompat.Title" android:id="@id/xebumsnpxxmlxeaifopicpxxisqzkh" android:focusable="false" android:clickable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:textColor="?android:textColorPrimary" android:id="@id/fwerturnhkumkqnspaatbeppvtgyqa" android:background="?rippleBackground" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" app:srcCompat="@drawable/ic_help_24" />
+        </LinearLayout>
+        <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/TextAppearance.AppCompat.Body1" android:id="@id/nagqtaaqzmoqoyeyztuhqrllpuxkjb" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:paddingBottom="8.0dip" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

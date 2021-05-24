@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout android:id="@id/rtnyxufkbijvrsqxdqwmpjzbcvnijf" android:background="?mainBackground" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/nlkz_f_suhgfklmiafz_ieldkajkaffenfpkkctkzqhtuqurpmvax" />
+    <LinearLayout android:layout_gravity="start" android:orientation="vertical" android:background="?navDrawerBackground" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <include layout="@layout/nav_header" />
+        <com.google.android.material.navigation.NavigationView android:id="@id/qno_jtqhoafuxbptsajgvgfcgwbgjp" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" app:elevation="0.0dip" app:menu="@menu/menu_main" />
+    </LinearLayout>
+</androidx.drawerlayout.widget.DrawerLayout>

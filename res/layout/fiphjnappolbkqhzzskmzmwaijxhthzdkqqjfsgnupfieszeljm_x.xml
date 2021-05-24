@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?selectableItemBackground" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:textColor="?colorAccent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" app:srcCompat="@drawable/ovdzvojflltcrdhvlskemadwkmgzemwwtmjzbwaibqayrupxztlhx" />
+    <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/TextAppearance.AppCompat.Small" android:textColor="?colorAccent" android:id="@id/vreqqnuuewvikgaftfnbv_vngj_bfj" android:padding="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lineSpacingExtra="4.0dip" />
+</LinearLayout>

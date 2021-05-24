@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:textSize="16.0sp" android:typeface="monospace" android:id="@id/wupwifciktqumpinsfmlrypmglpdvg" android:layout_width="wrap_content" android:layout_height="wrap_content" app:autoFit="false" style="?displayTextStyle" />
+    <com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD android:id="@id/fmnmwvtbywacbljwvngk_xyn_uveie" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true" style="@style/ScrollViewStyle">
+        <com.math.calculator.plus.view.display.class_TtNrsAGDoIBowMTSVHyQGLYaVTgndH android:id="@id/myjyjr_omoaccvustznbhbtjlwkphz" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?displayTextStyle" />
+    </com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD>
+</LinearLayout>

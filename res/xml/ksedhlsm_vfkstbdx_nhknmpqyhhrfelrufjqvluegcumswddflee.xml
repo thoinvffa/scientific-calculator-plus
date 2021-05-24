@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:icon="@drawable/vjokkcgkzqq_azeni_skxt_cjbqrfshrfqvxrmsgvklxbxcwydjia" android:entries="@array/sorting_orders" android:title="@string/pref_categorySorting" android:key="@string/pref_key_category_sorting" android:defaultValue="@string/pref_categorySorting_default" android:entryValues="@array/sorting_order_values" />
+    <ListPreference android:icon="@drawable/vjokkcgkzqq_azeni_skxt_cjbqrfshrfqvxrmsgvklxbxcwydjia" android:entries="@array/sorting_orders" android:title="@string/pref_unitSorting" android:key="@string/pref_key_unit_sorting" android:defaultValue="@string/pref_unitSorting_default" android:dialogTitle="@string/pref_unitSortingDialogTitle" android:entryValues="@array/sorting_order_values" />
+</PreferenceScreen>

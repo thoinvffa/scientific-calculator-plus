@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/lvbhqoyioh_d__atgutzjhqhgnfesh" android:title="Arg (Argument)" />
+    <item android:id="@id/fmrycvplxfzkkklxwwnhajerwdwzwr" android:title="Conjg (Complex conjugate)" />
+    <item android:id="@id/brpejgovqdvtebgwnqdxmunpcmsc_h" android:title="Re (Real component)" />
+    <item android:id="@id/zzazvfehlwbxfbsfavgmdlfedxecov" android:title="Im (Imaginary component)" />
+    <item android:id="@id/bsfhjjqcwpagbrvhqzezbsugofyhyn" android:title="►r∠φ (Output polar)" />
+    <item android:id="@id/hvqyhmzqrrztcjvvqjqeiwtqquf_pl" android:title="►a+bi (Output complex)" />
+</menu>

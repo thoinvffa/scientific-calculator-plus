@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/voqggdresegcctlbmzzivmqpxtntwfso_qbrgrds_hwu_lqdedlqz" android:id="@id/_xsfjwjxalyenambjxkqmwwxxtjauu" android:title="@string/paste" />
+    <item android:id="@id/pkaxbawulr_crpwxuklbzaskzyghoj" android:visible="false" android:title="@string/message_insert_expression_to_editor" />
+    <item android:icon="@drawable/ic_share_24" android:id="@id/sgfbhskb_lanyfroticnlczzbvbmkf" android:title="@string/share_" />
+    <item android:icon="@drawable/fsoevpjfi_rqitrrdfehswvxxnpryhucsr_bxgfekawgzomiwyejg" android:id="@id/ikmsfaartsugmisswrdafrcviufmmr" android:title="@string/title_action_copy_plain_text" />
+    <item android:icon="@drawable/fsoevpjfi_rqitrrdfehswvxxnpryhucsr_bxgfekawgzomiwyejg" android:id="@id/mgsbyjswiicgnsjwgpjlxzcum_cjyy" android:title="@string/title_action_copy_latex" />
+    <item android:icon="@drawable/fsoevpjfi_rqitrrdfehswvxxnpryhucsr_bxgfekawgzomiwyejg" android:id="@id/ixjjetmeaycadwosocmrazpzgvvmxf" android:title="@string/title_action_copy_mathml" />
+    <item android:icon="@drawable/ez_mzrsyvytei_cogijxvwevjrsmjrrmerkmwppevsfcshphttmwr" android:id="@id/xkkaqqiwzptfxnayr_ohdnzpvktgul" android:title="@string/title_action_export_image" />
+    <item android:icon="@drawable/ic_code_24" android:id="@id/hhjfazrundxfdjucezedazzznzkjbz" android:title="@string/open_in_program_editor" />
+    <item android:id="@id/omzdpoyslnuqea_ek_lmxvjuct_scq" android:title="@string/create_your_custom_function" />
+</menu>

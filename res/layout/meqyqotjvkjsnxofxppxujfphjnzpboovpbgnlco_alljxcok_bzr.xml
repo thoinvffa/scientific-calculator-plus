@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" app:cardUseCompatPadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:background="?mainBackground" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:gravity="center" android:id="@id/vreqqnuuewvikgaftfnbv_vngj_bfj" android:padding="8.0dip" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?actionBarTextStyle" />
+            <ProgressBar android:id="@id/okxgsfonubhrcusngobhplikqszfhf" android:layout_width="24.0dip" android:layout_height="24.0dip" android:indeterminate="true" style="@style/Widget.AppCompat.ProgressBar" />
+        </FrameLayout>
+        <LinearLayout android:orientation="vertical" android:background="?screenBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?screenForeground">
+            <HorizontalScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0">
+                <com.math.calculator.plus.view.display.class_AgqbbCPLTWjXajbqAgHcsQrDroPNjc android:textSize="@dimen/default_display_text_size" android:id="@id/mgvqetwo_lwwxnlfnqplqtdvelgcql" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?displayTextStyle" />
+            </HorizontalScrollView>
+            <androidx.appcompat.widget.AppCompatButton android:layout_gravity="end" android:id="@id/xwvcdsticinymruiqcmwwzotywbtwh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/download" style="@style/Base.Widget.AppCompat.Button.Colored" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

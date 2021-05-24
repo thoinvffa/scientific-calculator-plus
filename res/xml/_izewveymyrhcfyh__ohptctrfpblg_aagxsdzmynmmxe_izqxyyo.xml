@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/button_label">
+        <ListPreference android:entries="@array/values_division_sign" android:title="@string/division_sign" android:key="@string/pref_key_division_sign" android:defaultValue="@string/keyboard_operator_divide" android:entryValues="@array/values_division_sign" />
+        <ListPreference android:icon="@drawable/ic_font_24" android:entries="@array/values_font_size_scaling" android:title="@string/pref_title_font_scaling" android:key="@string/pref_key_keyboard_font_size_scaling" android:summary="@string/pref_desc_font_scaling" android:defaultValue="@string/default_font_size_scaling" android:entryValues="@array/values_font_size_scaling" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/keyboard_layout" android:key="keyboard_layout_group">
+        <ListPreference android:icon="@drawable/yulladcdzpsrrkbyvvyjqpulaz_nf_af_azbyrxzfnjqbkuppglvy" android:entries="@array/titles_keyboard_layout" android:title="@string/full_keyboard_layout" android:key="@string/pref_key_keyboard_type" android:defaultValue="@string/pref_keyboard_natural_textbook_display" android:entryValues="@array/values_keyboard_layout" />
+        <CheckBoxPreference android:title="@string/scroll_feature" android:key="@string/key_keyboard_scroll" android:summary="@string/scroll_feature_desc" android:defaultValue="false" />
+        <CheckBoxPreference android:title="Page scroll" android:key="@string/key_page_scroll" android:summary="Drag to change the keyboard. To use this feature, please disable the scroll feature" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/vibrate_and_sound">
+        <CheckBoxPreference android:icon="@drawable/oqprvxrpovvuw_pvsmsbfoakwpnctvxrmkjyhizgq_wm_tjzolwg_" android:title="@string/haptic" android:key="@string/key_vibrate" android:summary="@string/vibrate_sum" android:defaultValue="true" />
+        <SeekBarPreference android:icon="@drawable/oqprvxrpovvuw_pvsmsbfoakwpnctvxrmkjyhizgq_wm_tjzolwg_" android:max="100" android:title="@string/vibrate_strength" android:key="@string/key_vibrate_strength" android:defaultValue="20" />
+        <CheckBoxPreference android:icon="@drawable/kl_jwjpfosqawpdisrun_zlcbraok_ublqabochjc_wcdtcprlwcn" android:title="@string/sound_click" android:key="@string/key_play_sound" android:summary="@string/sound_click_desc" android:defaultValue="false" />
+        <ListPreference android:icon="@drawable/kl_jwjpfosqawpdisrun_zlcbraok_ublqabochjc_wcdtcprlwcn" android:entries="@array/sounds" android:title="@string/sound_" android:key="@string/key_sound_path" android:defaultValue="@string/default_sound" android:entryValues="@array/sound_paths" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/auto_complete">
+        <CheckBoxPreference android:title="@string/pref_title_auto_add_multiply_before_fraction" android:key="@string/pref_key_auto_add_multiply_before_fraction" android:summary="@string/pref_desc_auto_add_multiply_before_fraction" android:defaultValue="true" />
+        <CheckBoxPreference android:title="Automatically add closing bracket" android:key="@string/key_pref_auto_add_close_bracket" android:summary="When you press open parenthesis, the calculator will automatically add closing parenthesis, or when pressing a function key, the calculator will add open and close parentheses" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Button action on simple keyboard" android:key="@string/pref_key_button_label_group">
+        <ListPreference android:entries="@array/values_keyboard_actions" android:title="FACT button" android:key="@string/pref_key_simple_keyboard_fact_button" android:defaultValue="@string/keyboard_function_prime_factor" android:entryValues="@array/values_keyboard_actions" />
+        <ListPreference android:entries="@array/values_keyboard_actions" android:title="MC button" android:key="@string/pref_key_simple_keyboard_mc_button" android:defaultValue="@string/keyboard_m_clear" android:entryValues="@array/values_keyboard_actions" />
+        <ListPreference android:entries="@array/values_keyboard_actions" android:title="M+ button" android:key="@string/pref_key_simple_keyboard_mplus_button" android:defaultValue="@string/keyboard_m_plus" android:entryValues="@array/values_keyboard_actions" />
+        <ListPreference android:entries="@array/values_keyboard_actions" android:title="M- button" android:key="@string/pref_key_simple_keyboard_mminus_button" android:defaultValue="@string/keyboard_m_minus" android:entryValues="@array/values_keyboard_actions" />
+        <ListPreference android:entries="@array/values_keyboard_actions" android:title="MR button" android:key="@string/pref_key_simple_keyboard_mr_button" android:defaultValue="@string/keyboard_m_recall" android:entryValues="@array/values_keyboard_actions" />
+    </PreferenceCategory>
+    <Preference android:icon="@drawable/ic_close_24" android:title="@string/title_pref_reset" android:key="@string/key_pref_reset" android:summary="@string/desc_pref_reset" />
+</PreferenceScreen>

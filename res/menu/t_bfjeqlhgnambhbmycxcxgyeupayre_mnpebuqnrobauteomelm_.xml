@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_add_24" android:id="@id/nukukiolcghvlujmroxzepuntdlluw" android:title="@string/add" app:showAsAction="always" />
+    <item android:icon="@drawable/jbasiyxexgozmzj_flsati_sznrkbbkuytvluseizpjndylgarrtc" android:id="@id/wnjk_qmjpcrgbtbwsbffpsqtcyokra" android:title="@string/import_text_file" app:showAsAction="withText" />
+    <item android:icon="@drawable/ic_theme_24" android:id="@id/ccatjdj_nqystaycqznqhaamieyskj" android:title="@string/change_theme" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/n_zbagssp_wgjhrjpfqpxea_axtpkknox_m_pdiezquknuqusksdq" android:id="@id/gmozlefmitgxjiphg_nhnoiuxcvhtw" android:title="@string/settings" />
+</menu>

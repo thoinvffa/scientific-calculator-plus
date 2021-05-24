@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:animateLayoutChanges="true" app:layout_constraintBottom_toTopOf="@id/imufusmewvbqbnntztmxbxcwuifcpw" app:layout_constraintLeft_toLeftOf="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/owbcruqdvoskwrxopcggkyebyicmwg" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatButton android:id="@id/xhyllavkscnalcmqtnzuhxknrbnrex" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="0.0dip" android:minHeight="40.0dip" android:text="ZoomIn" android:textAllCaps="false" />
+        <androidx.appcompat.widget.AppCompatButton android:id="@id/qeyvflymhhaqiidubzxrdlcauwhjws" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="0.0dip" android:minHeight="40.0dip" android:text="ZoomOut" android:textAllCaps="false" />
+        <androidx.appcompat.widget.AppCompatButton android:id="@id/sirdtopenpdobfmmyvf_fxwxwkgzmk" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="0.0dip" android:minHeight="40.0dip" android:text="ZSquare" android:textAllCaps="false" />
+        <androidx.appcompat.widget.AppCompatButton android:id="@id/ebkjap_gwipgmstecmdy_z_fnpdexc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="0.0dip" android:minHeight="40.0dip" android:text="ZStandard" android:textAllCaps="false" />
+        <androidx.appcompat.widget.AppCompatButton android:id="@id/xsdeblomnznulvjbklojfzrvrjmtfy" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="0.0dip" android:minHeight="40.0dip" android:text="ZoomStat" android:textAllCaps="false" />
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatToggleButton android:id="@id/bcjliiyojukxtgtqaytczoxalccau_" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textOn="Zoom" android:textOff="Zoom" android:minWidth="0.0dip" android:minHeight="40.0dip" android:textAllCaps="false" />
+</LinearLayout>

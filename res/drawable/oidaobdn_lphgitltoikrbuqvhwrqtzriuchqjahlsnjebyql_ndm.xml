@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape>
+                    <corners android:radius="7.0dip" />
+                    <gradient android:startColor="#ff9d9e9b" android:endColor="#fffdfcfe" android:angle="270.0" android:centerColor="#ff9d9e9b" />
+                    <padding android:left="1.5dip" android:top="1.5dip" android:right="1.5dip" android:bottom="1.5dip" />
+                </shape>
+            </item>
+            <item>
+                <shape>
+                    <corners android:radius="6.0dip" />
+                    <solid android:color="@color/material_pink_900" />
+                    <padding android:left="2.0dip" android:top="1.5dip" android:right="2.0dip" android:bottom="2.0dip" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item>
+                <shape>
+                    <corners android:radius="7.0dip" />
+                    <gradient android:startColor="@color/material_grey_500" android:endColor="@color/material_grey_50" android:angle="270.0" android:centerColor="@color/material_grey_500" />
+                    <padding android:left="1.5dip" android:top="1.5dip" android:right="1.5dip" android:bottom="1.5dip" />
+                </shape>
+            </item>
+            <item>
+                <shape>
+                    <corners android:radius="6.0dip" />
+                    <solid android:color="@color/material_pink_900" />
+                    <padding android:left="2.0dip" android:top="1.5dip" android:right="2.0dip" android:bottom="2.0dip" />
+                </shape>
+            </item>
+            <item>
+                <shape>
+                    <corners android:topLeftRadius="5.0dip" android:topRightRadius="5.0dip" android:bottomLeftRadius="8.0dip" android:bottomRightRadius="8.0dip" />
+                    <gradient android:startColor="#ffae7a93" android:endColor="#ffaf7692" android:angle="0.0" android:centerColor="#ffecdae3" />
+                    <padding android:top="0.75dip" />
+                </shape>
+            </item>
+            <item>
+                <shape>
+                    <corners android:radius="5.0dip" />
+                    <gradient android:startColor="@color/material_pink_800" android:endColor="@color/material_pink_800" android:angle="0.0" android:centerColor="@color/material_pink_700" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

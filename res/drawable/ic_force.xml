@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="511.161" android:viewportHeight="511.161"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff4a9af5" android:pathData="m409.875,63.911c-41.213,-41.214 -96.009,-63.911 -154.294,-63.911s-113.081,22.697 -154.295,63.911 -63.911,96.01 -63.911,154.295v152.927c0,33.172 26.987,60.159 60.158,60.159h316.096c33.171,0 60.158,-26.987 60.158,-60.159v-152.927c0,-58.285 -22.698,-113.081 -63.912,-154.295z" />
+    <path android:fillColor="#ff3e7cd9" android:pathData="m409.875,63.911c-41.213,-41.214 -96.009,-63.911 -154.294,-63.911v431.292h158.048c33.171,0 60.158,-26.987 60.158,-60.159v-152.927c0,-58.285 -22.698,-113.081 -63.912,-154.295z" />
+    <path android:fillColor="#ff1563bf" android:pathData="m9.842,214.98h105.646v71.573h-105.646z" />
+    <path android:fillColor="#ff254691" android:pathData="m395.672,214.98h105.646v71.573h-105.646z" />
+    <path android:fillColor="#ffcff8fd" android:pathData="m85.489,194.505v255.475c0,26.596 19.884,49.277 46.249,52.759l4.319,0.57c39.654,5.235 79.589,7.853 119.523,7.853s79.869,-2.618 119.525,-7.853l4.316,-0.57c26.366,-3.481 46.25,-26.163 46.25,-52.759v-255.475z" />
+    <path android:fillColor="#ffc0e2ff" android:pathData="m255.581,194.505v316.656c39.935,0 79.869,-2.618 119.525,-7.853l4.316,-0.57c26.366,-3.481 46.25,-26.163 46.25,-52.759v-255.474z" />
+    <path android:fillColor="#fffff38e" android:pathData="m257.689,166.342h-4.217c-20.176,0 -36.532,-16.356 -36.532,-36.532v-45.543h77.281v45.543c0,20.176 -16.356,36.532 -36.532,36.532z" />
+    <path android:fillColor="#ffc0e2ff" android:pathData="m396.611,497.372c-5.27,2.71 -11.05,4.56 -17.19,5.37l-4.31,0.57c-17.05,2.24 -34.14,4.01 -51.27,5.3l-238.331,-312.97 1.5,-1.14h78.95z" />
+    <path android:fillColor="#fffdd845" android:pathData="m255.581,84.267v82.074h2.108c20.176,0 36.532,-16.356 36.532,-36.532v-45.542z" />
+    <path android:fillColor="#ffa2d5ff" android:pathData="m255.581,312.183v106.791l68.26,89.638c17.13,-1.29 34.22,-3.06 51.27,-5.3l4.31,-0.57c6.14,-0.81 11.92,-2.66 17.19,-5.37z" />
+</vector>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.math.calculator.plus.view.class_TwUQWthwtIIcxvaOlmdPSQlImNPIdL android:orientation="horizontal" android:id="@id/eawxmfowmxnybxxgg_vnsmgdtkicmq" android:background="?keyboardBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false" android:weightSum="2.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:baselineAligned="false" android:weightSum="5.0" android:layout_weight="1.0">
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:textSize="32.0sp" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="T34 Calc" android:layout_weight="1.0" style="?shiftedButtonStyle" />
+        <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fiiuqrhu_uthw_pyqykcwir_macpvqugal_akjkafwtcdkkrdjwmg" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:baselineAligned="false" android:weightSum="5.0" android:layout_weight="1.0">
+        <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/wu_cxgyxrbwmybo_yjgagxia_ykdpjbakffk_oboxzowvani_uzoe" />
+    </LinearLayout>
+</com.math.calculator.plus.view.class_TwUQWthwtIIcxvaOlmdPSQlImNPIdL>

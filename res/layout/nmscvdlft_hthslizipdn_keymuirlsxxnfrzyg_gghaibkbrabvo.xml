@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:textSize="16.0sp" android:gravity="start" android:id="@id/nnwpaxzksyuwpjleotzaxyq_dlxe_x" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" app:autoFit="false" style="?displayTextStyle" />
+        <com.math.calculator.plus.view.calcbutton.class_iCdGnpuWdKcquUwNPU_lDoDIjovREo android:id="@id/fwerturnhkumkqnspaatbeppvtgyqa" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" app:autoFit="false" app:borderRadius="4.0dip" app:strokeWidth="1.0dip" style="?displayTextStyle" />
+    </LinearLayout>
+    <View android:background="?screenListViewDivider" android:layout_width="fill_parent" android:layout_height="0.5dip" />
+    <com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/ScrollViewStyle" />
+</LinearLayout>

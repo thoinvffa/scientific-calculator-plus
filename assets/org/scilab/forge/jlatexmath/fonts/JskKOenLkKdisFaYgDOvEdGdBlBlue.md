@@ -1,0 +1,1 @@
+ulama Ashurbanipal Euclidean Detta 

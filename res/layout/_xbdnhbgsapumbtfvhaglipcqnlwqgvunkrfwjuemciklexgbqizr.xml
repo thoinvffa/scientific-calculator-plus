@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/ScrollViewStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:background="?screenBackground" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.math.calculator.plus.view.display.class_AgqbbCPLTWjXajbqAgHcsQrDroPNjc android:textSize="@dimen/default_display_text_size" android:id="@id/vvlrbogfbnmncb_yda_yhuqfyjvdh_" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?displayTextStyle" />
+    </LinearLayout>
+</com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD>

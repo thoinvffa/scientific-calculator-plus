@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="Light theme" android:key="@string/pref_key_graph_light_theme" android:defaultValue="true" />
+    <ListPreference android:entries="@array/arr_graph_coordinate_titles" android:title="@string/coordinate" android:key="@string/pref_key_graph_coordinate" android:defaultValue="@string/graph_cartesian_coordinate_value" android:entryValues="@array/arr_graph_coordinate_values" />
+    <CheckBoxPreference android:title="Show grid" android:key="@string/pref_key_graph_show_grid" android:defaultValue="true" />
+    <CheckBoxPreference android:title="Show axes" android:key="@string/pref_key_graph_show_axes" android:defaultValue="true" />
+    <CheckBoxPreference android:title="Show axis labels" android:key="@string/pref_key_graph_show_label" android:defaultValue="true" />
+    <CheckBoxPreference android:title="Independent zoom" android:key="@string/pref_key_graph_independent_zoom" android:summary="Allows to zoom in both directions. This option will be ignore if current coordinate is polar" android:defaultValue="true" />
+    <Preference android:icon="@drawable/ic_close_24" android:title="@string/clear_all_graph_workspaces" android:key="pref_key_clear_all_graph_workspaces" />
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppThemeDarkCompat" parent="@style/BaseDarkThemeCompat">
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="rippleBackground">?selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="AppThemeLightCompat" parent="@style/BaseLightThemeCompat">
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="rippleBackground">?selectableItemBackgroundBorderless</item>
+    </style>
+</resources>

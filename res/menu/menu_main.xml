@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/orvnj_cfnlaxfjormquaeqcpsdakkd">
+        <item android:icon="@drawable/bnruvktnzii_vc_ffedvjlordyn_kejhfioroyffnofsofguzkvmz" android:id="@id/yhjoqgcggmudhkmhafwfpsvwdlilxo" android:title="@string/title_activity_math_formulas" />
+        <item android:icon="@drawable/ic_graph_24" android:id="@id/ipfhgnfx__qzbimrrhlrmovtfqltax" android:title="@string/graph" />
+        <item android:icon="@drawable/ovssahtergymsb_x_vlwjtaxfx_lgrtrywcrzbtsxpsyaeldhiuoj" android:id="@id/tdoruqzrxjjtkniyhpirjlqkaedmvb" android:title="@string/unit_converter" />
+        <item android:icon="@drawable/ic_code_24" android:id="@id/rea_vvvff_tngkksthnayrgofpmltx" android:title="@string/programming" />
+        <item android:icon="@drawable/osnhofy_qe_xokrjhzqoghuwzmmhtkvwyhblersrrdfmwsrarhkqm" android:id="@id/ncnbwwwgqytkuwcuxdrupeskygderx" android:visible="false" android:title="@string/photo_math" />
+        <item android:icon="@drawable/xufydigplp_rclt_heehsymuuef_aaakmtfc_ntpclcwyfvdrfrb_" android:id="@id/rnejtgkizkdeuatosjibtomterklep" android:title="@string/history" />
+        <item android:icon="@drawable/qmygsxcxsgkmygpnwcgyitfokjccfjlvjevquyuo_ouxtav_bzkqf" android:id="@id/rzoajjnrxinyxlftznpjuqohqirkne" android:title="@string/variable_value" />
+    </group>
+    <group android:id="@id/pjyucah_bjed_ynwtgqqknflccmpyu">
+        <item android:icon="@drawable/ic_help_24" android:id="@id/ldeluxmjgjhxuico_fdghmhudzxpqr" android:title="@string/help" />
+        <item android:icon="@drawable/ic_theme_24" android:id="@id/ccatjdj_nqystaycqznqhaamieyskj" android:title="@string/theme" />
+        <item android:icon="@drawable/ic_font_24" android:id="@id/komwo_ltyhctrrbydaklvreu_ea_ko" android:title="@string/font" />
+        <item android:icon="@drawable/n_zbagssp_wgjhrjpfqpxea_axtpkknox_m_pdiezquknuqusksdq" android:id="@id/gmozlefmitgxjiphg_nhnoiuxcvhtw" android:title="@string/settings" />
+    </group>
+    <group android:id="@id/rqniokwvokalmco_qfrlsrnfbhltnv">
+        <item android:icon="@drawable/umpt_wmsaybxilrxboqbkacdimkkzrzolttbvmbamnmrgpwausxnm" android:id="@id/rsydv_timcdntncgptfxhgblhldlop" android:visible="false" android:title="@string/change_font_size" />
+        <item android:icon="@drawable/yulladcdzpsrrkbyvvyjqpulaz_nf_af_azbyrxzfnjqbkuppglvy" android:id="@id/pffsxolsmhoz_z_yccnalpostkfwqa" android:checked="true" android:title="@string/full_keyboard" android:checkable="true" />
+        <item android:icon="@drawable/yulladcdzpsrrkbyvvyjqpulaz_nf_af_azbyrxzfnjqbkuppglvy" android:id="@id/jgdswmjopk_gniubeuqzjpmdvzksit" android:title="@string/pocket_keyboard" android:checkable="true" />
+    </group>
+    <group android:visible="true">
+        <item android:id="@id/i_rcuvdadijlqgbexmqmsmespdom_l" android:title="@string/chemistry">
+            <menu>
+                <item android:icon="@drawable/nklnsmroswqpexdiqhncvnxpbqwpmdnktmtrwhwjotailm_dhx_cb" android:id="@id/ek_tugxyswkfllgasyanrfilzxuyev" android:visible="true" android:title="Periodic table [ad free]" />
+            </menu>
+        </item>
+    </group>
+    <group android:id="@id/ansfgwlzclfimulxfkaixxivgtseu_">
+        <item android:icon="@drawable/nzbssnowvromuxuxpphjj_fctryvbdbck_pkwfmuukgbzjulokvif" android:id="@id/kajgbpb_ovbnwqboyymbgt__gpqyo_" android:title="@string/translate" />
+    </group>
+</menu>

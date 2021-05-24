@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:id="@id/jcxxcpvcklzvtyavhxvsduwoooh_ly" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="4.0dip" app:cardUseCompatPadding="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true">
+            <LinearLayout android:gravity="end|center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ProgressBar android:layout_gravity="center" android:id="@id/okxgsfonubhrcusngobhplikqszfhf" android:layout_width="24.0dip" android:layout_height="24.0dip" style="@style/Base.Widget.AppCompat.ProgressBar" />
+                <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:textColor="?android:textColorPrimary" android:id="@id/dmmbzkdqlvu_hkkhydryqisbptxtst" android:padding="8.0dip" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="?rippleBackground" app:srcCompat="@drawable/kawvgpspshswnzd_qrefuivqnrnsszhzohxazrstngwqqpaamkwav" />
+                <androidx.appcompat.widget.AppCompatButton android:id="@id/jqfaxzcmpwkzvxojtmxzmvwitlnebu" android:background="?rippleBackground" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Clear" />
+                <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:textColor="?android:textColorPrimary" android:id="@id/cqkogcivdnggeydyhpyebbevertz_x" android:padding="8.0dip" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="?rippleBackground" android:text="Remove" app:srcCompat="@drawable/ic_close_24" />
+            </LinearLayout>
+            <View android:id="@id/ntjepmotb_i__tfqnmndrhu_thdrtq" android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            <com.duy.ide.editor.view.CodeEditor android:typeface="monospace" android:gravity="start|center|top" android:id="@id/ffqtqguszxawpaakcnrtykbszehmls" android:background="@null" android:padding="8.0dip" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="Input" android:inputType="textMultiLine" />
+            <View android:id="@id/uwonascaqlzdtulowqezpobscsofwa" android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            <com.duy.ide.editor.view.CodeEditor android:typeface="monospace" android:gravity="start|center|top" android:id="@id/yitwqnkdszptdvyhorymkdeswnvbej" android:background="@null" android:padding="8.0dip" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="Result" android:inputType="textMultiLine" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

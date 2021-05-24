@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/h_qbwpzo_pnwnthtecoftilmqmxiav" android:title="@string/hyperbolic_function" />
+    <item android:id="@id/izamgxuvujotuvjitk_gkrbtkob_ol" android:title="@string/engineer_symbol" />
+</menu>

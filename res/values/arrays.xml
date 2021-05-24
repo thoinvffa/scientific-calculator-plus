@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="angle_mode_titles">
+        <item>@string/degree_</item>
+        <item>@string/radian_</item>
+        <item>@string/gradian_</item>
+    </string-array>
+    <string-array name="angle_mode_values">
+        <item>@string/value_angle_mode_degree</item>
+        <item>@string/value_angle_mode_radian</item>
+        <item>@string/value_angle_mode_gradian</item>
+    </string-array>
+    <string-array name="arr_graph_coordinate_titles">
+        <item>@string/graph_cartesian_coordinate</item>
+        <item>@string/graph_polar_coordinate</item>
+    </string-array>
+    <string-array name="arr_graph_coordinate_values">
+        <item>@string/graph_cartesian_coordinate_value</item>
+        <item>@string/graph_polar_coordinate_value</item>
+    </string-array>
+    <string-array name="arr_matrix_row">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="arr_percent_calculate_type_values">
+        <item>@string/percent_calculate_type_casio_value</item>
+        <item>@string/percent_calculate_type_rpn_value</item>
+    </string-array>
+    <string-array name="arr_percent_calculate_types">
+        <item>@string/percent_calculate_type_casio</item>
+        <item>@string/percent_calculate_type_rpn</item>
+    </string-array>
+    <string-array name="arr_ti84_graph_modes">
+        <item>@string/pref_value_graph_mode_func</item>
+        <item>@string/pref_value_graph_mode_param</item>
+        <item>@string/pref_value_graph_mode_polar</item>
+        <item>@string/pref_value_graph_mode_seq</item>
+    </string-array>
+    <string-array name="arr_vector_dimens">
+        <item>1 x 2</item>
+        <item>1 x 3</item>
+    </string-array>
+    <string-array name="arr_vibrate_strength">
+        <item>10</item>
+        <item>20</item>
+        <item>@string/thirty</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="barcolor">
+        <item>@string/Yellow</item>
+        <item>@string/Black</item>
+        <item>@string/Red</item>
+        <item>@string/Green</item>
+        <item>@string/Blue</item>
+        <item>@string/Cyan</item>
+    </string-array>
+    <string-array name="bit_sizes">
+        <item>8 digits, byte (8 bits)</item>
+        <item>16 digits, short (16 bits)</item>
+        <item>32 digits, int (32 bits)</item>
+        <item>64 digits, long (64 bits)</item>
+    </string-array>
+    <string-array name="bit_sizes_values">
+        <item>@string/value_bit_size_8</item>
+        <item>@string/value_bit_size_16</item>
+        <item>@string/value_bit_size_32</item>
+        <item>@string/value_bit_size_64</item>
+    </string-array>
+    <string-array name="complex_output_type_titles">
+        <item>@string/polar_coordinates</item>
+        <item>@string/complex_number</item>
+    </string-array>
+    <string-array name="complex_output_type_values">
+        <item>@string/value_complex_output_polar</item>
+        <item>@string/value_complex_output_complex</item>
+    </string-array>
+    <string-array name="decimal_format_type">
+        <item>@string/format_normal</item>
+        <item>@string/format_fixed</item>
+        <item>@string/format_science</item>
+        <item>@string/format_engineer</item>
+        <item>@string/format_engineer_si</item>
+    </string-array>
+    <string-array name="decimal_separator">
+        <item>@string/dec_sep_point</item>
+        <item>@string/dec_sep_comma</item>
+    </string-array>
+    <string-array name="decimal_separator_values">
+        <item>@string/value_dec_sep_point</item>
+        <item>@string/value_dec_sep_comma</item>
+    </string-array>
+    <array name="default_theme">
+        <item>@style/ThemeFx350es</item>
+        <item>@style/ThemeFx350ex</item>
+        <item>@style/ThemeFx580</item>
+        <item>@style/ThemeColorful</item>
+        <item>@style/ThemeBusiness</item>
+        <item>@style/ThemeProgrammable</item>
+    </array>
+    <string-array name="output_type_titles">
+        <item>@string/fraction</item>
+        <item>@string/decimal_str</item>
+    </string-array>
+    <string-array name="output_type_values">
+        <item>@string/output_fraction_value</item>
+        <item>@string/output_decimal_value</item>
+    </string-array>
+    <string-array name="precision_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>@string/precision_ten</item>
+    </string-array>
+    <string-array name="pref_anglemeasure_entries">
+        <item>degree</item>
+        <item>radian</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_anglemeasure_evs">
+        <item>degree</item>
+        <item>radian</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_leftruler_entries">
+        <item>cm</item>
+        <item>inch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_leftruler_evs">
+        <item>cm</item>
+        <item>inch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_rightruler_entries">
+        <item>cm</item>
+        <item>inch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_rightruler_evs">
+        <item>cm</item>
+        <item>inch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="screen_orientation">
+        <item>Auto</item>
+        <item>Landscape</item>
+        <item>Portrait</item>
+    </string-array>
+    <string-array name="screen_orientation_values">
+        <item>@string/value_screen_orientation_auto</item>
+        <item>@string/value_screen_orientation_port</item>
+        <item>@string/value_screen_orientation_land</item>
+    </string-array>
+    <string-array name="screen_orientations">
+        <item>@string/screen_orientation_auto</item>
+        <item>@string/screen_orientation_port</item>
+        <item>@string/screen_orientation_land</item>
+    </string-array>
+    <string-array name="sorting_order_values">
+        <item>D</item>
+        <item>A</item>
+    </string-array>
+    <string-array name="sorting_orders">
+        <item>Default</item>
+        <item>Alphabetic</item>
+    </string-array>
+    <string-array name="sound_paths">
+        <item>sounds/multimedia_button_click_001.mp3</item>
+        <item>sounds/multimedia_button_click_002.mp3</item>
+        <item>sounds/multimedia_button_click_003.mp3</item>
+        <item>sounds/multimedia_button_click_004.mp3</item>
+        <item>sounds/multimedia_button_click_005.mp3</item>
+        <item>sounds/multimedia_button_click_006.mp3</item>
+        <item>sounds/multimedia_button_click_007.mp3</item>
+        <item>sounds/multimedia_button_click_008.mp3</item>
+        <item>sounds/multimedia_button_click_009.mp3</item>
+        <item>sounds/multimedia_button_click_010.mp3</item>
+        <item>sounds/multimedia_button_click_011.mp3</item>
+        <item>sounds/multimedia_button_click_012.mp3</item>
+        <item>sounds/multimedia_button_click_013.mp3</item>
+        <item>sounds/multimedia_button_click_014.mp3</item>
+        <item>sounds/multimedia_button_click_015.mp3</item>
+        <item>sounds/multimedia_button_click_016.mp3</item>
+        <item>sounds/multimedia_button_click_017.mp3</item>
+        <item>sounds/multimedia_button_click_018.mp3</item>
+        <item>sounds/multimedia_button_click_019.mp3</item>
+        <item>sounds/multimedia_button_click_020.mp3</item>
+        <item>sounds/multimedia_button_click_021.mp3</item>
+        <item>sounds/multimedia_button_click_022.mp3</item>
+        <item>sounds/multimedia_button_click_023.mp3</item>
+        <item>sounds/multimedia_button_click_024.mp3</item>
+        <item>sounds/multimedia_button_click_025.mp3</item>
+        <item>sounds/multimedia_button_click_026.mp3</item>
+        <item>sounds/multimedia_button_click_027.mp3</item>
+        <item>sounds/multimedia_button_click_028.mp3</item>
+        <item>sounds/multimedia_button_click_029.mp3</item>
+        <item>sounds/multimedia_button_click_030.mp3</item>
+    </string-array>
+    <string-array name="sounds">
+        <item>Button click 01</item>
+        <item>Button click 02</item>
+        <item>Button click 03</item>
+        <item>Button click 04</item>
+        <item>Button click 05</item>
+        <item>Button click 06</item>
+        <item>Button click 07</item>
+        <item>Button click 08</item>
+        <item>Button click 09</item>
+        <item>Button click 10</item>
+        <item>Button click 11</item>
+        <item>Button click 12</item>
+        <item>Button click 13</item>
+        <item>Button click 14</item>
+        <item>Button click 15</item>
+        <item>Button click 16</item>
+        <item>Button click 17</item>
+        <item>Button click 18</item>
+        <item>Button click 19</item>
+        <item>Button click 20</item>
+        <item>Button click 21</item>
+        <item>Button click 22</item>
+        <item>Button click 23</item>
+        <item>Button click 24</item>
+        <item>Button click 25</item>
+        <item>Button click 26</item>
+        <item>Button click 27</item>
+        <item>Button click 28</item>
+        <item>Button click 29</item>
+        <item>Button click 30</item>
+    </string-array>
+    <string-array name="supported_language">
+        <item>@string/system_language</item>
+        <item>Tiếng Việt</item>
+        <item>English</item>
+        <item>日本語</item>
+        <item>Español (Latinoamérica)</item>
+        <item>Русский</item>
+        <item>简体中文</item>
+        <item>繁體中文</item>
+        <item>Čeština</item>
+        <item>Deutsch</item>
+        <item>Magyar</item>
+        <item>Português (Europeu)</item>
+        <item>Français</item>
+        <item>Nederlands</item>
+        <item>العربية</item>
+        <item>Türkçe</item>
+        <item>Polski</item>
+        <item>ไทย</item>
+        <item>Українська</item>
+        <item>Italiano</item>
+        <item>Bahasa Indonesia</item>
+        <item>Svenska</item>
+        <item>Hebrew</item>
+        <item>Persian</item>
+        <item>Greek</item>
+        <item>Punjabi</item>
+        <item>Bengali</item>
+    </string-array>
+    <string-array name="supported_language_code">
+        <item>@string/system_language</item>
+        <item>vi</item>
+        <item>en</item>
+        <item>ja</item>
+        <item>es</item>
+        <item>ru</item>
+        <item>zh_rCN</item>
+        <item>zh_rTW</item>
+        <item>cs</item>
+        <item>de</item>
+        <item>hu</item>
+        <item>pt_rPT</item>
+        <item>fr</item>
+        <item>nl</item>
+        <item>ar</item>
+        <item>tr</item>
+        <item>pl</item>
+        <item>th</item>
+        <item>uk</item>
+        <item>it</item>
+        <item>id</item>
+        <item>sw</item>
+        <item>he</item>
+        <item>fa</item>
+        <item>el</item>
+        <item>pa</item>
+        <item>bn</item>
+    </string-array>
+    <string-array name="thousand_separator">
+        <item>@string/thousand_sep_none</item>
+        <item>@string/thousand_sep_point</item>
+        <item>@string/thousand_sep_comma</item>
+        <item>@string/thousand_sep_space</item>
+        <item>@string/thousand_sep_apostrophe</item>
+    </string-array>
+    <string-array name="thousand_separator_values">
+        <item>@string/value_thousand_sep_none</item>
+        <item>@string/value_thousand_sep_point</item>
+        <item>@string/value_thousand_sep_comma</item>
+        <item>@string/value_thousand_sep_space</item>
+        <item>@string/value_thousand_sep_apostrophe</item>
+    </string-array>
+    <string-array name="titles_keyboard_layout">
+        <item>@string/value_keyboard_classwiz</item>
+        <item>@string/value_keyboard_natural_textbook_display</item>
+        <item>@string/title_keyboard_ti84</item>
+        <item>@string/title_keyboard_ti36</item>
+    </string-array>
+    <string-array name="values_division_sign">
+        <item>@string/keyboard_operator_splash</item>
+        <item>@string/keyboard_operator_divide</item>
+    </string-array>
+    <string-array name="values_font_size_scaling">
+        <item>@string/default_font_size_scaling</item>
+        <item>1.25</item>
+        <item>1.5</item>
+        <item>1.75</item>
+        <item>2</item>
+        <item>2.25</item>
+        <item>2.5</item>
+        <item>2.75</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="values_keyboard_actions">
+        <item>@string/keyboard_function_prime_factor</item>
+        <item>@string/keyboard_m_plus</item>
+        <item>@string/keyboard_m_minus</item>
+        <item>@string/keyboard_m_clear</item>
+        <item>@string/keyboard_m_recall</item>
+        <item>@string/keyboard_function_sin</item>
+        <item>@string/keyboard_function_arcsin</item>
+        <item>@string/keyboard_function_cos</item>
+        <item>@string/keyboard_function_arccos</item>
+        <item>@string/keyboard_function_tan</item>
+        <item>@string/keyboard_function_arctan</item>
+        <item>@string/keyboard_function_cot</item>
+        <item>@string/keyboard_function_arccot</item>
+        <item>@string/keyboard_function_ln</item>
+        <item>@string/keyboard_function_log10</item>
+    </string-array>
+    <string-array name="values_keyboard_layout">
+        <item>@string/pref_keyboard_classwiz</item>
+        <item>@string/pref_keyboard_natural_textbook_display</item>
+        <item>@string/pref_keyboard_ti84</item>
+        <item>@string/pref_keyboard_ti36</item>
+    </string-array>
+    <string-array name="wrap_char_list">
+        <item>Convert to \\n（Linux/OSX）</item>
+        <item>Convert to \\r\\n（Windows）</item>
+    </string-array>
+</resources>

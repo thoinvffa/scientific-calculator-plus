@@ -1,0 +1,55 @@
+.class final Lq/j/a/a/y2$k;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lq/j/a/a/y2$o;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lq/j/a/a/y2;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x8
+    name = null
+.end annotation
+
+
+# direct methods
+.method constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public a(Lq/j/a/a/h3;)F
+    .locals 2
+
+    invoke-virtual {p1}, Lq/j/a/a/h3;->n()Lq/j/a/a/i3;
+
+    move-result-object v0
+
+    invoke-virtual {p1}, Lq/j/a/a/h3;->m()I
+
+    move-result p1
+
+    invoke-interface {v0}, Lq/j/a/a/i3;->E()I
+
+    move-result v1
+
+    invoke-interface {v0, p1, v1}, Lq/j/a/a/i3;->N(II)F
+
+    move-result p1
+
+    const/high16 v0, 0x41900000    # 18.0f
+
+    div-float/2addr p1, v0
+
+    return p1
+.end method

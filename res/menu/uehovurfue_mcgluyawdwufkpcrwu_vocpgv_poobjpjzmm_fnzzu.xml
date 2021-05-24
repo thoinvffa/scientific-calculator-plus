@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/jbasiyxexgozmzj_flsati_sznrkbbkuytvluseizpjndylgarrtc" android:id="@id/wnjk_qmjpcrgbtbwsbffpsqtcyokra" android:title="@string/import_text_file" app:showAsAction="withText" />
+    <item android:id="@id/clabngyz_xrvlpbesgzoxbufxcygkr" android:title="@string/delete_all" />
+</menu>

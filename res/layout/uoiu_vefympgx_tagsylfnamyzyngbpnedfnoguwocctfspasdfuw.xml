@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/huepirgzajfwbwprgpliylzdwffvog" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD android:id="@id/dram_jhtehzkybsdcrptplxvnqbukp" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/ScrollViewStyle">
+        <com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL android:id="@id/to_gucglkrnhdhikadrlksdcqorb_s" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/ScrollViewStyle">
+            <LinearLayout android:orientation="horizontal" android:id="@id/oolymjkkna_k_gpqjjzwkmpwrbcuy_" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <include layout="@layout/yrlssqyqqhtslaxhnvyskrdtzujnyvhhvad_lpnhgmgzqdxshhfva" />
+                <include layout="@layout/yrlssqyqqhtslaxhnvyskrdtzujnyvhhvad_lpnhgmgzqdxshhfva" />
+                <include layout="@layout/yrlssqyqqhtslaxhnvyskrdtzujnyvhhvad_lpnhgmgzqdxshhfva" />
+            </LinearLayout>
+        </com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL>
+    </com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD>
+    <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:textSize="14.0sp" android:gravity="start" android:id="@id/_lxuqqsyswx_xkonmiovjdaiucbnol" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="" app:autoFit="false" style="?displayTextStyle" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.math.calculator.plus.view.calcbutton.class_LNzrxaHEZmdgIuvPLhvPYaaB_EEVTq android:id="@id/kbfzqaaypennvyhttvstoghgyvfffh" android:layout_width="wrap_content" android:layout_height="wrap_content" app:autoFit="false" style="?displayTextStyle" />
+        <com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD android:id="@id/ppgwcuadczmacklpebfcisyogduoy_" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/ScrollViewStyle">
+            <com.math.calculator.plus.view.display.class_TtNrsAGDoIBowMTSVHyQGLYaVTgndH android:textSize="16.0sp" android:id="@id/kyyaje_rtbybxodstqwqmbngdcuowp" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?displayTextStyle" />
+        </com.math.calculator.plus.view.scrollview.class_gQqTXsNONFrbgELQqrvUUAmGUYvqDD>
+    </LinearLayout>
+</LinearLayout>

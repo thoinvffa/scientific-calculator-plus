@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_edit_24" android:id="@id/mdziotqx_op_gxmmredtaw_dmnjbv_" android:title="@string/edit" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_home_24" android:id="@id/nhxtjxtuxoisxbstykelgmlghzuzyf" android:title="@string/reset_graph_bounds" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_share_24" android:id="@id/xkkaqqiwzptfxnayr_ohdnzpvktgul" android:title="@string/share_graph_image" />
+    <item android:icon="@drawable/ic_help_24" android:id="@id/cc___iyhuutrfnfkgeynrnxchqther" android:title="@string/help" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/n_zbagssp_wgjhrjpfqpxea_axtpkknox_m_pdiezquknuqusksdq" android:id="@id/gmozlefmitgxjiphg_nhnoiuxcvhtw" android:title="@string/settings" />
+</menu>

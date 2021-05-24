@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/oskkhytlwsgurbajlmk_cxqzklsais" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:orientation="vertical" android:id="@id/tphggvnserctazeuuuttadmjnjuwic" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@id/gxnptwsgfqjxicdctjpqiejdlkrcfx" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:contentInsetStartWithNavigation="0.0dip">
+            <com.google.android.material.tabs.TabLayout android:id="@id/plzrqfwyamvuaptbbphrrlcslqrded" android:layout_width="fill_parent" android:layout_height="fill_parent" app:tabGravity="center" app:tabMode="scrollable" app:tabTextAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.viewpager.widget.ViewPager android:id="@id/nblmvvwpbmhx_mkubef_hxwspgxqmt" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:measureAllChildren="false" android:animateLayoutChanges="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.math.calculator.plus.graph.class_TWAzqELOqCLiZBUbtoNtbhGcwisbxz android:id="@id/zuezlrvzj_mdlaiyrenfjsewtwpssi" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <androidx.recyclerview.widget.RecyclerView android:layout_gravity="top" android:id="@id/gphgbek_bgmbmtdzkqiwyimlqgyghj" android:layout_width="fill_parent" android:layout_height="wrap_content" android:overScrollMode="never" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <TextView android:textSize="14.0sp" android:typeface="monospace" android:textColor="#ffffffff" android:id="@id/sw_i_fdjyhwjulviwlzhhwspbwsfkx" android:paddingLeft="8.0dip" android:layout_width="210.0dip" android:layout_height="wrap_content" android:minHeight="0.0dip" android:maxLines="30" android:paddingStart="8.0dip" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintTop_toBottomOf="@id/gphgbek_bgmbmtdzkqiwyimlqgyghj" />
+    <include layout="@layout/kdiskaojevzsuknduexgihfc_tsdjadjzk_qsxjizcepuj_jitufe" />
+    <include layout="@layout/rvsvsceksaaeqcaaugapjujejiexmpdkfklumxcaidrrdzzpjeaeh" />
+    <include layout="@layout/gxrpwi_kwnlbk_jdbpkehqruugyivqqgcomiemhanyjdbmhzruunz" />
+    <include layout="@layout/yclnuu_vgygcllzwunyp_deihkfaohqtw_qokctxbeqkljubbrrmh" />
+</androidx.constraintlayout.widget.ConstraintLayout>

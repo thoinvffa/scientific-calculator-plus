@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#ff3d1217" />
+        </shape>
+    </item>
+    <item>
+        <layer-list>
+            <item>
+                <shape>
+                    <solid android:color="#ffd14a59" />
+                    <padding android:top="2.0dip" />
+                </shape>
+            </item>
+            <item>
+                <shape>
+                    <solid android:color="#ff7c222b" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

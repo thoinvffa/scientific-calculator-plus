@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:orientation="vertical" android:id="@id/tphggvnserctazeuuuttadmjnjuwic" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.google.android.material.appbar.AppBarLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@id/gxnptwsgfqjxicdctjpqiejdlkrcfx" android:layout_width="fill_parent" android:layout_height="wrap_content" app:title="">
+            <LinearLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.math.calculator.plus.view.calcbutton.class_iCdGnpuWdKcquUwNPU_lDoDIjovREo android:id="@id/pnghgfuygetw_dpdavkucfgtmw_jk_" android:layout_width="wrap_content" android:layout_height="wrap_content" app:autoFit="false" style="@style/Widget.AppCompat.Button" />
+                <com.math.calculator.plus.view.calcbutton.class_iCdGnpuWdKcquUwNPU_lDoDIjovREo android:id="@id/yjyvxufiyuwlmdpugdqu_sfcleiakv" android:layout_width="wrap_content" android:layout_height="wrap_content" app:autoFit="false" style="@style/Widget.AppCompat.Button" />
+                <androidx.core.widget.ContentLoadingProgressBar android:layout_gravity="center" android:id="@id/okxgsfonubhrcusngobhplikqszfhf" android:visibility="invisible" android:layout_width="30.0dip" android:layout_height="30.0dip" style="@style/Widget.AppCompat.ProgressBar" />
+            </LinearLayout>
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.core.widget.NestedScrollView android:scrollbarStyle="outsideInset" android:id="@id/aqqtaodahbaaipagdxfyngmhzltrcu" android:paddingBottom="100.0dip" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fadeScrollbars="false" style="@style/ScrollViewStyle">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="false">
+            <LinearLayout android:orientation="vertical" android:id="@id/uqtel_pyxlriymlnrpxca_hiehkeob" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include layout="@layout/kzztzqwkdzvwqdgdoialctiqvxlkteigiulhhjhfvvqjkokuhibce" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/h_bnzhjplwb_jogrnhxrtucevstdxi" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <androidx.appcompat.widget.AppCompatTextView android:layout_gravity="center" android:id="@id/yybfmozwavwybshagztbyojtphmexk" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/we_cannot_calculate_anything_with_this_expression" />
+            <FrameLayout android:id="@id/pubhgwn_tlnjzgkhahghtmpthufnrv" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

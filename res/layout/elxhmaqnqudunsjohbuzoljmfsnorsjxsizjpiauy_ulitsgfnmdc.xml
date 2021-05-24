@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@id/gxnptwsgfqjxicdctjpqiejdlkrcfx" android:layout_width="fill_parent" android:layout_height="wrap_content" app:title="@string/theme" />
+        <com.google.android.material.tabs.TabLayout android:id="@id/plzrqfwyamvuaptbbphrrlcslqrded" android:layout_width="fill_parent" android:layout_height="wrap_content" app:tabGravity="center" app:tabMode="scrollable" app:tabTextAppearance="@style/TextAppearance.AppCompat.Small" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <androidx.viewpager.widget.ViewPager android:id="@id/nblmvvwpbmhx_mkubef_hxwspgxqmt" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.google.android.material.floatingactionbutton.FloatingActionButton android:layout_gravity="end|bottom|center" android:id="@id/iechyplhixswbxz_pptarktcr_jbtg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="16.0dip" app:fabSize="normal" app:srcCompat="@drawable/radihiksjcouz_zbulztbibbheddcnnazwirholsxscwzzmuryzkp" style="@style/Base.Widget.AppCompat.Button.Colored" />
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatTextView android:padding="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="From unit" />
+    <include layout="@layout/hvddb_qrttxsduktiyujmxubdmw_sphcvgdrqlmpoajecwaoqwgtl" />
+    <androidx.appcompat.widget.AppCompatTextView android:padding="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="To units" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/fzlofkqjebrhpbxtsxpnqisllgtfnh" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ProgressBar android:layout_gravity="center" android:id="@id/okxgsfonubhrcusngobhplikqszfhf" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" style="@style/Widget.AppCompat.ProgressBar" />
+    </FrameLayout>
+</LinearLayout>

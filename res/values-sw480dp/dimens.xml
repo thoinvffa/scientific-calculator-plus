@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_height">76.0dip</dimen>
+    <dimen name="action_button_width">57.0dip</dimen>
+    <dimen name="default_display_text_size">30.0sp</dimen>
+    <dimen name="font_size_button_clear">38.0sp</dimen>
+    <dimen name="font_size_button_main">38.0sp</dimen>
+    <dimen name="font_size_button_operator">38.0sp</dimen>
+    <dimen name="font_size_button_secondary">24.0sp</dimen>
+    <dimen name="font_size_button_shift">24.0sp</dimen>
+    <dimen name="font_size_button_shifted">15.0sp</dimen>
+    <dimen name="font_size_display_status">16.0sp</dimen>
+</resources>

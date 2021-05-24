@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatTextView android:typeface="monospace" android:textColor="?android:textColorPrimary" android:id="@id/nilnflpncfygchpccdjzuptuvodjxp" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="0.0dip" android:layout_toLeftOf="@id/cqkogcivdnggeydyhpyebbevertz_x" android:layout_alignParentLeft="true" android:textIsSelectable="true" android:layout_marginEnd="0.0dip" android:layout_toStartOf="@id/cqkogcivdnggeydyhpyebbevertz_x" android:layout_alignParentStart="true" />
+        <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:textColor="?android:textColorSecondary" android:layout_gravity="end" android:id="@id/cqkogcivdnggeydyhpyebbevertz_x" android:padding="4.0dip" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:contentDescription="Remove" android:layout_alignParentEnd="true" app:srcCompat="@drawable/ic_close_24" />
+    </RelativeLayout>
+    <androidx.appcompat.widget.AppCompatTextView android:typeface="monospace" android:textColor="?colorAccent" android:id="@id/wczdnpcwxgzbylzldjxaycimoxamna" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scrollHorizontally="true" android:textIsSelectable="true" />
+    <HorizontalScrollView android:scrollbarStyle="outsideInset" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/ScrollViewStyle">
+        <com.math.calculator.plus.view.class_uVdp_OAzMzQn_UAwXmxMhNmGPGdKWM android:textSize="18.0sp" android:typeface="monospace" android:id="@id/rtoumzshamzhxxthfjaewnuhtrqyif" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:isScrollContainer="true" app:alignHorizontal="end" />
+    </HorizontalScrollView>
+</LinearLayout>

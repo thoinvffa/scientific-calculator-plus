@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/pref_title_traditional_form" android:key="@string/key_pref_traditional_form" android:summary="@string/pref_desc_traditional_form" android:defaultValue="false" />
+    <PreferenceCategory android:title="@string/separator_character">
+        <Preference android:enabled="false" android:title="123456789.123456789" android:key="@string/pref_key_number_format_example" />
+        <ListPreference android:entries="@array/decimal_separator" android:title="@string/decimal_sep" android:key="@string/key_pref_decimal_separator" android:defaultValue="@string/value_dec_sep_point" android:entryValues="@array/decimal_separator_values" />
+        <ListPreference android:entries="@array/thousand_separator" android:title="@string/thousand_sep" android:key="@string/key_pref_thousand_separator" android:defaultValue="@string/value_thousand_sep_none" android:entryValues="@array/thousand_separator_values" />
+        <ListPreference android:entries="@array/thousand_separator" android:title="@string/pref_title_thousandth_separator" android:key="@string/key_pref_thousandth_separator" android:defaultValue="@string/value_thousand_sep_none" android:entryValues="@array/thousand_separator_values" />
+        <CheckBoxPreference android:title="@string/pref_title_use_indian_digit_grouping_style" android:key="@string/pref_key_use_indian_digit_grouping_style" android:summary="Example: 1 00 00 00 00 00 000.234" android:defaultValue="false" />
+        <Preference android:title="@string/decimal_number_format" android:key="pref_key_select_decimal_format_mode" android:summary="@string/pref_desc_decimal_format" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/history">
+        <CheckBoxPreference android:title="@string/title_pref_history_sort" android:key="@string/key_pref_history_sort" android:defaultValue="true" android:summaryOn="@string/desc_history_sort_descending" android:summaryOff="@string/desc_history_sort_ascending" />
+    </PreferenceCategory>
+</PreferenceScreen>

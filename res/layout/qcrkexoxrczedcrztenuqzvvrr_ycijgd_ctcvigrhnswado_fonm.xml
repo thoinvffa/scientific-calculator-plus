@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL android:id="@id/quhbsvndhss_bsfjhthszdisqofzfx" android:paddingBottom="@dimen/display_toolbar_height" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/ScrollViewStyle">
+        <com.math.calculator.plus.view.class_cauvopyFzUwyhdLG_nyuTcooDmmZxN android:orientation="vertical" android:id="@id/jzpciuciciygwjdpfgkojelfcnrabl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0">
+            <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" layout="@layout/ik_uaihmvruhzolte_btecggyuztftefga_qpmofluvqcvijhrsmg" />
+        </com.math.calculator.plus.view.class_cauvopyFzUwyhdLG_nyuTcooDmmZxN>
+    </com.math.calculator.plus.view.scrollview.class_ThenKUnuixGqAlNbUSbUzSVpxthDlL>
+    <include layout="@layout/yxhyawbzptwabogvcuvdghhxkxoctitnveuh_rg_svjvue_myxdoe" />
+</FrameLayout>

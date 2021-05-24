@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/_hoclctuwwitsf_zuhyfsfetcrumxi" android:title="∧ Bitwise and" />
+    <item android:id="@id/pdatzzqsaoepuhqqxduaverpsmtzyc" android:title="∨ Bitwise or" />
+    <item android:id="@id/apjcttycibgrciglylkabqrrlhikth" android:title="⊕ Bitwise xor" />
+    <item android:id="@id/knybfh_jnugmxsdqjzutdy__xvxiip" android:title="~ Bitwise not" />
+    <item android:id="@id/f_fwxmn__devqny_htnyehlds_lfaq" android:title="¬ Negate" />
+    <item android:id="@id/yzzyowual_un_kf_pyynfremusewfs" android:title="&lt;&lt; Bitwise shift left" />
+    <item android:id="@id/epuwhwecsqlyajyttdnxgqhykqd_yv" android:title=">> Bitwise shift right" />
+    <item android:id="@id/oqzfnunxjtqrlydogoqfzcbpcfmcnr" android:title=">>> Bitwise unsigned shift right" />
+    <item android:id="@id/a_rqyhhpivnjyamjdiclvbthvjpapg" android:title="RotateLeft(value,distance)" />
+    <item android:id="@id/_z_mapguvwjgzzmpovahorqqnlgbze" android:title="RotateRight(value,distance)" />
+    <item android:id="@id/jyokh_oscrzywavikprgifchhttqrh" android:title="BitCount(value)" />
+    <item android:id="@id/nevybispz_qncy_ihqxpx_agliybcr" android:title="BitLength(value)" />
+</menu>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="CAS mode" android:key="@string/pref_key_cas" android:summary="Calculator can perform algebraic operations like, factoring, solving, and give exact simplified answers with variables." android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/auto_calculate" android:key="@string/key_instant_result" android:summary="@string/instant_result_desc" android:defaultValue="true" />
+    <ListPreference android:entries="@array/angle_mode_titles" android:title="@string/angle_mode" android:key="@string/pref_key_angle_unit" android:defaultValue="@string/value_angle_mode_degree" android:entryValues="@array/angle_mode_values" />
+    <Preference android:enabled="false" android:summary="@string/desc_pref_change_angle" />
+    <ListPreference android:entries="@array/output_type_titles" android:title="@string/default_output" android:key="@string/key_fraction" android:defaultValue="@string/output_decimal_value" android:entryValues="@array/output_type_values" />
+    <Preference android:enabled="false" android:summary="@string/pref_hint_change_default_output" />
+    <CheckBoxPreference android:title="@string/pref_title_auto_detect_dms" android:key="@string/pref_key_auto_detect_dms" android:summary="@string/summary_auto_detect_dms" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/implied_multiplication" android:key="@string/pref_key_implicit_multiplication" android:defaultValue="true" android:summaryOn="1/2π = 1/(2*π)" android:summaryOff="1/2π = 1/2*π" />
+    <ListPreference android:entries="@array/arr_percent_calculate_types" android:title="Percentage calculation type" android:key="@string/pref_key_percent_calculate_type" android:defaultValue="@string/percent_calculate_type_rpn_value" android:entryValues="@array/arr_percent_calculate_type_values" />
+    <PreferenceCategory android:title="@string/mode_complex_title" android:key="pref_key_casio_cmplx_group">
+        <ListPreference android:entries="@array/complex_output_type_titles" android:title="@string/default_output_complex" android:key="@string/key_def_output_complex" android:defaultValue="@string/value_complex_output_complex" android:entryValues="@array/complex_output_type_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/mode_statistical_title" android:key="pref_key_casio_stat_group">
+        <CheckBoxPreference android:enabled="true" android:title="@string/pref_title_frequency_column" android:key="@string/key_pref_stat_frequency" android:summary="@string/pref_desc_frequency_column" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/mode_base_n_title" android:key="pref_key_casio_basen_group">
+        <ListPreference android:entries="@array/bit_sizes" android:title="@string/pref_title_bit_size" android:key="@string/pref_key_bit_size" android:defaultValue="@string/value_bit_size_32" android:entryValues="@array/bit_sizes_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/mode_table_title" android:key="pref_key_casio_table_group">
+        <CheckBoxPreference android:title="@string/pref_title_use_gx" android:key="@string/pref_key_table_use_gx" android:defaultValue="true" />
+        <EditTextPreference android:title="Maximum number of entries" android:key="@string/pref_key_table_max_entries" android:defaultValue="200" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="@integer/weight_sum_portrait"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/qurqgey_ggtwto_jpackjyacivzcko" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatSpinner android:id="@id/oaswhkixbfeelnrhczzdhvnafrgfbt" android:background="@null" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:spinnerMode="dropdown" style="?secondaryButtonStyle" />
+        <com.math.calculator.plus.view.calcbutton.class_lGvNZlu_eoa_vvpNrIcPlfEfVhwFkv android:id="@id/kcaagnlgvesqcpd_vorxaadpyrelf_" android:padding="8.0dip" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" app:srcCompat="@drawable/rmatcdxaggxxoorczsjmvkbmp_iozssdmnujfevgfrtfbsgxqkuaa" style="?shiftButtonStyle" />
+        <androidx.appcompat.widget.AppCompatSpinner android:id="@id/t_tmjeqspemdfopg_wdj_shgmlhchu" android:background="@null" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:spinnerMode="dropdown" style="?secondaryButtonStyle" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/gtuxaitdwlmxcklbypqflm_kuggaku" android:background="?screenBackground" android:layout_width="fill_parent" android:layout_height="0.0dip" android:foreground="?screenForeground" android:layout_weight="@integer/display_weight_portrait" />
+    <FrameLayout android:orientation="vertical" android:id="@id/maclmkszettqitorejymoutmldnmjo" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="@integer/keyboard_weight_portrait" />
+</LinearLayout>

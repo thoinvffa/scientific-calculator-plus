@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:stretchColumns="*"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="11.0dip" android:gravity="center" android:id="@id/zcptpcoqnvdjkklvbozuerqcqhufzv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="!" android:singleLine="true" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="11.0dip" android:gravity="center" android:id="@id/hedctlttmlgeikcpamid_zhcii_wyx" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="\#" android:singleLine="true" />
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="11.0dip" android:gravity="center" android:layout_gravity="center" android:id="@id/cgpdseugqjensvs__xgsjfkscsuvwo" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text=";" android:singleLine="true" android:layout_weight="1.0" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="11.0dip" android:gravity="center" android:id="@id/xpkprebykpboxpsqdrxlodeawwqsr_" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="$" android:singleLine="true" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="11.0dip" android:gravity="center" android:id="@id/tltenbqwkqi_pgojogvcncbmaaqrqj" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="^" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

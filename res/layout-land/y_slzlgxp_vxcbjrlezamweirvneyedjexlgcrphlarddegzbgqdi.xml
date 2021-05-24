@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:orientation="vertical" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@id/gxnptwsgfqjxicdctjpqiejdlkrcfx" android:layout_width="fill_parent" android:layout_height="?actionBarSize" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false" android:weightSum="3.0" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <ExpandableListView android:id="@id/szrwwvyjengybmfopuhacllowgwtjq" android:layout_width="0.0dip" android:layout_height="fill_parent" android:groupIndicator="@null" android:layout_weight="1.0" />
+        <FrameLayout android:orientation="vertical" android:id="@id/tumugnefmcbacsqogjrfswyzwiyvsq" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="2.0" />
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

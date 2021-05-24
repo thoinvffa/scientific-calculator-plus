@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.simplecityapps.recyclerview_fastscroll.views.FastScrollRecyclerView android:id="@id/fzlofkqjebrhpbxtsxpnqisllgtfnh" android:layout_width="fill_parent" android:layout_height="fill_parent" app:fastScrollPopupBgColor="?colorPrimary" app:fastScrollPopupTextColor="?colorAccent" app:fastScrollThumbColor="?colorAccent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

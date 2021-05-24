@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rta_dialog_give_5_stars">5星好评</string>
+    <string name="rta_dialog_message_1">"我们是一个小团队，致力于为您开发最好的免费应用程序！
+"</string>
+    <string name="rta_dialog_message_2">您的五星评价是对我们工作的最好肯定！</string>
+    <string name="rta_dialog_suggestions">建议</string>
+</resources>

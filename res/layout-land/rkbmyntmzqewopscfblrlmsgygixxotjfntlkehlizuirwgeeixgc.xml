@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.math.calculator.plus.view.class_TwUQWthwtIIcxvaOlmdPSQlImNPIdL android:orientation="vertical" android:id="@id/maclmkszettqitorejymoutmldnmjo" android:background="?keyboardBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="4.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/jllxqmjsoiqptgtdthkrdrwrpqlhrgqrjqymveggf_viyks_kkuuh" />
+    <include layout="@layout/jym_xlvmtgxmdgtbsppdwefjumzyhfugrx_slhtodjrviougq_ywo" />
+    <include layout="@layout/zaxsuuochbyskazzazmmhzyuup_vzyxlhujqmxaglgvyyrlslnwiw" />
+    <include layout="@layout/xfquj_go_rnwg_zgkfkotikrrijfhthefm_wsv_iwrtcbcepqu_zc" />
+</com.math.calculator.plus.view.class_TwUQWthwtIIcxvaOlmdPSQlImNPIdL>

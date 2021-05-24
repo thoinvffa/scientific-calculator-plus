@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sorting_orders">
+        <item>Omissão</item>
+        <item>Alfabético</item>
+    </string-array>
+</resources>
